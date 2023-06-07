@@ -1,0 +1,2277 @@
+name,scryfallID,releaseDate,setCode,setName
+
+"Dauntless Bodyguard",a3f82012-5c33-47bc-a3c8-56ae2eea1fb9,2018-04-27,dom,"Dominaria"
+
+"Dragon Hunter",ae8a0362-b973-445a-a355-5a2f3dc67f16,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Touch the Spirit Realm",e16ab44e-4257-4c0c-b705-8ac1e9c1d835,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Gideon's Lawkeeper",1c71eb81-a077-4c85-a4ce-4ad664486bee,2011-07-15,m12,"Magic 2012"
+
+"Giver of Runes",4e117771-5a8b-4812-b487-32ba34b7f724,2019-06-14,mh1,"Modern Horizons"
+
+"Goldmeadow Harrier",b6a7508c-2815-40eb-92f7-3e66dfb28484,2007-10-12,lrw,"Lorwyn"
+
+"Isamaru, Hound of Konda",2e7f9919-0713-4ef9-96eb-3e0c444e47f4,2004-10-01,chk,"Champions of Kamigawa"
+
+"Kytheon, Hero of Akros // Gideon, Battle-Forged",58c39df6-b237-40d1-bdcb-2fe5d05392a9,2015-07-17,ori,"Magic Origins"
+
+"Legion's Landing // Adanto, the First Fort",05e2a5e6-3aaa-4096-bdd0-fcc1afe5a36c,2017-09-29,xln,"Ixalan"
+
+"Mardu Woe-Reaper",0bf14a32-b97b-48c7-8395-d9c3626735c1,2015-01-23,frf,"Fate Reforged"
+
+"Mother of Runes",0b1a46ab-95cb-4c24-924f-fc2afd4fcac7,1999-02-15,ulg,"Urza's Legacy"
+
+"Skymarcher Aspirant",9473190f-5e96-4cf7-a0fa-a77d916acc2e,2018-01-19,rix,"Rivals of Ixalan"
+
+"Soul Warden",d5ee24ee-4d28-4634-bd43-90eff15c16dd,1998-06-15,exo,"Exodus"
+
+"Steppe Lynx",b0aaec1c-8084-4468-82e7-2e4cc5ebe244,2009-10-02,zen,"Zendikar"
+
+"Student of Warfare",9f4df9be-324b-458a-9379-ab4aa437a6d2,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Mentor of the Meek",bd8f179a-f6ab-4d4c-8195-ed077a7770d3,2011-09-30,isd,"Innistrad"
+
+"Clowning Around",859428e7-0795-423b-b16f-fdb4335de2b8,2022-10-07,unf,"Unfinity"
+
+"Imposing Sovereign",0f672328-3361-498e-a9f4-2d8e69a8b072,2013-07-19,m14,"Magic 2014"
+
+"Kor Skyfisher",bb2e9465-f5ba-4c7b-9f03-d40dc8394acd,2009-10-02,zen,"Zendikar"
+
+"Hotshot Mechanic",5a70e8fa-b71d-441e-b049-dacb09a9a7af,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Raise the Alarm",4be510c8-fc01-4374-ac04-7968d24480fe,2003-10-02,mrd,"Mirrodin"
+
+"Selfless Spirit",a4624976-3773-4a1e-b725-5f6efce147a5,2016-07-22,emn,"Eldritch Moon"
+
+"Stoneforge Mystic",19557351-b65f-4b04-b971-66abdc07000a,2010-02-05,wwk,"Worldwake"
+
+"Thalia, Guardian of Thraben",824423ff-6441-4be6-b754-810adf9ca6a2,2012-02-03,dka,"Dark Ascension"
+
+"Tithe Taker",bd26b7b1-992d-4b8c-bc33-51aab5abdf98,2019-01-25,rna,"Ravnica Allegiance"
+
+"White Knight",50abfba8-c9f9-4ebf-965a-4b425fe83129,1993-08-05,lea,"Limited Edition Alpha"
+
+"Eidolon of Rhetoric",c3bc8b9e-4d22-41ba-b593-d383fd301ef9,2014-05-02,jou,"Journey into Nyx"
+
+"Blade Splicer",b8e56a28-713b-4a13-a601-1128cf117539,2011-05-13,nph,"New Phyrexia"
+
+"Brimaz, King of Oreskos",f54eb705-6326-4bac-bf0e-68d42db7a270,2014-02-07,bng,"Born of the Gods"
+
+"Fiend Hunter",f1e4c7d8-11a5-40fe-962b-7e938bf08616,2011-09-30,isd,"Innistrad"
+
+"Flickerwisp",5bb3cb5c-8d66-4f5e-a9a9-917e6045f024,2008-07-25,eve,"Eventide"
+
+"History of Benalia",d134385d-b01c-41c7-bb2d-30722b44dc5a,2018-04-27,dom,"Dominaria"
+
+"Archetype of Courage",8e6c4afb-6a94-4519-91c6-9824fed2892c,2014-02-07,bng,"Born of the Gods"
+
+"Monastery Mentor",abcd0e32-2e6b-419b-9e8a-af38f2b48a66,2015-01-23,frf,"Fate Reforged"
+
+"Recruiter of the Guard",bb9ad57f-cca2-4717-a951-cbe3c7782efe,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Ethersworn Canonist",2aebe7a8-b982-4be4-83ca-3594e8f606b4,2008-10-03,ala,"Shards of Alara"
+
+"Soltari Champion",a112edf3-c976-426c-a407-e86255586e41,1998-03-02,sth,"Stronghold"
+
+"Thalia, Heretic Cathar",ab0cee38-5e24-49d0-870c-22843ed4e101,2016-07-22,emn,"Eldritch Moon"
+
+"Battle Screech",c3c38264-0d79-47d4-bca2-a20a991bbac9,2002-05-27,jud,"Judgment"
+
+"Emeria Angel",8b386d39-ba41-42f8-ba05-f9ed602ee23f,2009-10-02,zen,"Zendikar"
+
+"Exalted Angel",c2213eac-cea4-4dfd-90c4-c1f466967e2e,2002-10-07,ons,"Onslaught"
+
+"Hero of Bladehold",8a3853ec-e307-46e0-96d7-0706b5c45c5e,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Leonin Warleader",b31b2e5e-6572-462a-9fa0-1b2e660099e3,2018-07-13,m19,"Core Set 2019"
+
+"Palace Jailer",78cef262-c753-4658-b3ec-fec8db47f944,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Restoration Angel",c2ad8639-e586-47f4-baca-2a1af5aa281b,2012-05-04,avr,"Avacyn Restored"
+
+"Spectral Procession",5e26bd0c-5ec7-4653-8e63-747157c20af1,2008-05-02,shm,"Shadowmoor"
+
+"Angel of Invention",f3920f7d-8559-40f8-95be-860c16bf7700,2016-09-30,kld,"Kaladesh"
+
+"Baneslayer Angel",6764ea7b-ccb3-4f39-b8ba-654a186210b9,2009-07-17,m10,"Magic 2010"
+
+"Cloudgoat Ranger",9e344859-7248-4498-8303-252f196a007b,2007-10-12,lrw,"Lorwyn"
+
+"Karmic Guide",77d23045-905b-44cb-9af9-cc6ad717477d,1999-02-15,ulg,"Urza's Legacy"
+
+"Reveillark",5629edd4-b5d3-43f8-8c7c-f9d916e35158,2008-02-01,mor,"Morningtide"
+
+"Venerated Loxodon",93599fba-7c53-4621-85b5-6434be077bf6,2018-10-05,grn,"Guilds of Ravnica"
+
+"Spirited Companion",5aa91a9e-2fe2-43bc-aa9c-cfb8a71829ff,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Sun Titan",d8db2b8e-dce9-49b7-833f-381ee55288cb,2010-07-16,m11,"Magic 2011"
+
+"Akroma, Angel of Wrath",814245de-6105-43ef-acbf-d12d304b6331,2003-02-03,lgn,"Legions"
+
+"Elspeth, Knight-Errant",44c52e52-2b1c-4ca8-ab6d-20d97a342704,2008-10-03,ala,"Shards of Alara"
+
+"Gideon, Ally of Zendikar",05de38ac-84ef-4daa-b311-11c20ad680ee,2015-10-02,pbfz,"Battle for Zendikar Promos"
+
+"Condemn",58d4f5a0-b2d0-4a60-b1e1-bb2140abfd6d,2006-05-05,dis,"Dissension"
+
+"Enlightened Tutor",cbac1d27-15e2-4e2f-82ab-625a16e096cb,1996-10-08,mir,"Mirage"
+
+"Path to Exile",29b7a8b1-b98e-483a-87a4-73bd831c03d4,2009-02-06,con,"Conflux"
+
+"Swords to Plowshares",386ea9eb-abc1-4862-aa2d-8fb808d79490,1993-08-05,lea,"Limited Edition Alpha"
+
+"Disenchant",2722d7e2-61c6-4934-9c21-875ee78fd06c,1993-08-05,lea,"Limited Edition Alpha"
+
+"Momentary Blink",032e072a-0630-472b-9106-5df554dff785,2006-10-06,tsp,"Time Spiral"
+
+"Heliod, Sun-Crowned",01a8576e-cadc-4521-aadd-3a05f0bc4d20,2020-01-24,thb,"Theros Beyond Death"
+
+"Crib Swap",a9044585-4d44-42fb-ad7b-e0e224fbc502,2007-10-12,lrw,"Lorwyn"
+
+"Return to Dust",48185c8f-ac41-46e2-85b1-760abac914ac,2006-10-06,tsp,"Time Spiral"
+
+"Settle the Wreckage",9cbd346e-098a-4cf6-a72f-468376fd2e8f,2017-09-29,xln,"Ixalan"
+
+"Oust",07313dd3-d0dc-40ca-98a3-fa4d39e5bcae,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Balance",6f9ea46a-411f-40ce-a873-a905180093f4,1993-08-05,lea,"Limited Edition Alpha"
+
+"Declaration in Stone",f685445d-e2af-455f-b3b2-97cf15362f3c,2016-04-08,soi,"Shadows over Innistrad"
+
+"Winds of Abandon",3bb17913-fe4d-4acd-9b75-71f5a90f898b,2019-06-14,mh1,"Modern Horizons"
+
+"Council's Judgment",17f28b16-da65-41a8-ba4f-f1c5e104aad6,2014-06-06,cns,"Conspiracy"
+
+"Armageddon",5b6ddce7-b9c5-431d-a0b0-46d4aa93cbcb,1993-08-05,lea,"Limited Edition Alpha"
+
+"Day of Judgment",2aa98fca-972b-46c2-bdec-6ace35c988d5,2009-10-02,zen,"Zendikar"
+
+"Ravages of War",11dca9ba-b27f-4af8-9962-3794e743886f,1999-07-06,ptk,"Portal Three Kingdoms"
+
+"Wrath of God",a2788d69-6a3a-42f0-8736-cc6b57755ecd,1993-08-05,lea,"Limited Edition Alpha"
+
+"Austere Command",8ee73fe8-d52b-43bb-ab91-5545192be676,2007-10-12,lrw,"Lorwyn"
+
+"Terminus",0982ea7e-05a4-4e40-98ab-ea9aa6c7342e,2012-05-04,avr,"Avacyn Restored"
+
+"GO TO JAIL",06b86826-307b-499b-92a4-a2de0839dc47,2017-12-08,ust,"Unstable"
+
+"Seal of Cleansing",af6c921e-1b82-412c-9979-adfdf83440f7,2000-02-14,nem,"Nemesis"
+
+"Banishing Light",fbaa4800-30cc-4a80-a6cc-9a24ada9eb40,2014-05-02,jou,"Journey into Nyx"
+
+"Halvar, God of Battle // Sword of the Realms",97502411-5c93-434c-b77b-ceb2c32feae7,2021-02-05,khm,"Kaldheim"
+
+"Oblivion Ring",1c7fffe8-709c-4cb4-bbad-e4a0c35b616a,2007-10-12,lrw,"Lorwyn"
+
+"Angelic Destiny",a0cd7438-fde2-4e26-9c34-52c476a971e9,2011-07-15,m12,"Magic 2012"
+
+"Cast Out",76ff0dd0-489e-4773-93f6-b77fc3b8ef2e,2017-04-28,akh,"Amonkhet"
+
+"Stoneforge Mystic",19557351-b65f-4b04-b971-66abdc07000a,2010-02-05,wwk,"Worldwake"
+
+"Godsend",2dcf3975-7f81-4bdd-810d-476f46444b7a,2014-05-02,jou,"Journey into Nyx"
+
+"Karakas",31d2422a-bb7d-4cdd-9aac-e5a936a4be3b,1994-06-01,leg,"Legends"
+
+"Rona, Herald of Invasion // Rona, Tolarian Obliterator",0f0b2d53-455d-400d-b0d5-e9bf410f8d7e,2023-04-21,pmom,"March of the Machine Promos"
+
+"Augur of Bolas",2e6ec8a6-ad88-45c9-ab4b-dd7de2418bb7,2012-07-13,m13,"Magic 2013"
+
+"Baral, Chief of Compliance",60e16d94-1166-4050-8554-686e153a7f80,2017-01-20,aer,"Aether Revolt"
+
+"Callous Dismissal",66cef326-339c-49e5-9905-21a1603a46ae,2019-05-03,war,"War of the Spark"
+
+"Jace, Vryn's Prodigy // Jace, Telepath Unbound",02d6d693-f1f3-4317-bcc0-c21fa8490d38,2015-07-17,ori,"Magic Origins"
+
+"Looter il-Kor",368ee06f-9021-4b65-9f53-9c326bf3a27f,2006-10-06,tsp,"Time Spiral"
+
+"Merfolk Looter",0fbb1c41-388f-4ff2-af37-ad64a0f4618e,1998-06-15,exo,"Exodus"
+
+"Phantasmal Image",98e7bf8f-dba7-4005-8cee-634c9153931d,2011-07-15,m12,"Magic 2012"
+
+"Snapcaster Mage",9e5b279e-4670-4a1e-87d0-3cab7e4f9e58,2011-09-30,isd,"Innistrad"
+
+"Stratus Dancer",e3bf4f37-2a2e-4c49-88dc-a26dd7367afb,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Thing in the Ice // Awoken Horror",359d1b13-6156-43b0-a9a7-6bfff36c1a91,2016-04-08,soi,"Shadows over Innistrad"
+
+"Thought Courier",837b6315-d5c6-480b-902e-44107a72b581,2004-06-04,5dn,"Fifth Dawn"
+
+"Aether Spellbomb",f3792e8b-4ad7-4e2d-994c-c4eaac0fa55f,2003-10-02,mrd,"Mirrodin"
+
+"Spellskite",1a84bada-ed6a-4e97-8a0c-05b7cb32d66f,2011-05-13,nph,"New Phyrexia"
+
+"Aether Adept",0b551dab-1a81-406d-b708-b3b7300eb02e,2010-07-16,m11,"Magic 2011"
+
+"Champion of Wits",d765221d-9718-47eb-aa49-9c0719337139,2017-07-14,hou,"Hour of Devastation"
+
+"Deceiver Exarch",1f123ad6-fe84-4fed-9c0f-6b41921e9c26,2011-05-13,nph,"New Phyrexia"
+
+"Trinket Mage",4c5a41ab-1840-4abb-a8bb-f0b1e7d1b450,2004-06-04,5dn,"Fifth Dawn"
+
+"Man-o'-War",4dbf9bf9-75cd-4b25-a3a1-43b7e029700b,1997-02-03,vis,"Visions"
+
+"Pestermite",f252ae53-443c-4a27-b8f0-639a9a2b8598,2007-10-12,lrw,"Lorwyn"
+
+"Sea Gate Oracle",fd056c91-5026-41ea-bc9e-68078d78ca82,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Spellseeker",74b4c336-5d4c-4bc5-b82a-35084a6ad808,2018-06-08,bbd,"Battlebond"
+
+"Vendilion Clique",f53d8540-fb6d-4d4c-b467-ebfbfa53c880,2008-02-01,mor,"Morningtide"
+
+"Phyrexian Metamorph",d2e27911-87cb-49a0-a34f-6afe4bddd592,2011-05-13,nph,"New Phyrexia"
+
+"Clever Impersonator",cd8fffd3-81ad-47e3-a27b-d8059f2b506f,2014-09-26,ktk,"Khans of Tarkir"
+
+"Dungeon Geists",b715da2e-c816-4c14-8522-811c97c66fed,2012-02-03,dka,"Dark Ascension"
+
+"Glen Elendra Archmage",09516d3d-e6c2-4359-af2a-a4aa244ca033,2008-07-25,eve,"Eventide"
+
+"Sower of Temptation",2f5320da-7214-4348-84d8-74bf951c9f2f,2007-10-12,lrw,"Lorwyn"
+
+"Talrand, Sky Summoner",bc1a6867-921d-4912-afae-c3c445ad81e7,2012-07-13,m13,"Magic 2013"
+
+"Urza, Lord High Artificer",9e7fb3c0-5159-4d1f-8490-ce4c9a60f567,2019-06-14,mh1,"Modern Horizons"
+
+"Venser, Shaper Savant",0e84fc99-4045-4518-b588-512a675f2933,2007-05-04,fut,"Future Sight"
+
+"Whirler Rogue",0feb66d2-c50f-4296-af2f-b374c57443b0,2015-07-17,ori,"Magic Origins"
+
+"Arcane Savant",0e7466e5-9443-4b38-a7e9-e0d615a35667,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Meloku the Clouded Mirror",1caaa733-6d4c-4e18-a64e-f95851c7063b,2004-10-01,chk,"Champions of Kamigawa"
+
+"Morphling",812f4d5c-aacf-4bd8-849d-80a357a7804d,1998-10-12,usg,"Urza's Saga"
+
+"Vesuvan Shapeshifter",458031cc-238d-45f0-9a81-b52e82286e0f,2006-10-06,tsp,"Time Spiral"
+
+"Ninja of the Deep Hours",367a67c7-54db-4336-b55a-3fa27625172a,2005-02-04,bok,"Betrayers of Kamigawa"
+
+"Frost Titan",065addc8-c235-43cc-a54f-b582826e5df1,2010-07-16,m11,"Magic 2011"
+
+"Aeon Chronicler",2fbc2dd2-976b-4239-bef9-ea0f06be79ba,2007-02-02,plc,"Planar Chaos"
+
+"Torrential Gearhulk",d52868cb-087e-4f91-91bc-455f2e2e7cd7,2016-09-30,kld,"Kaladesh"
+
+"Palinchron",5621db3f-a9e7-4350-9c6a-0ba04a628947,1999-02-15,ulg,"Urza's Legacy"
+
+"Inkwell Leviathan",cb380a5a-a3f9-42fb-ac5c-f54afa3c1079,2009-02-06,con,"Conflux"
+
+"Jace, the Mind Sculptor",0e606072-a3aa-4300-ba90-ec92a721fa76,2010-02-05,wwk,"Worldwake"
+
+"Tezzeret the Seeker",3b214b6f-4734-4200-8467-92d7e3469b5d,2008-10-03,ala,"Shards of Alara"
+
+"Ancestral Recall",70e7ddf2-5604-41e7-bb9d-ddd03d3e9d0b,1993-08-05,lea,"Limited Edition Alpha"
+
+"Brainstorm",8d42d7aa-7f53-4cfc-842a-086aab2448d1,1995-06-03,ice,"Ice Age"
+
+"Force Spike",70e64028-ae96-4950-aa6c-9d347409fad3,1994-06-01,leg,"Legends"
+
+"Mystical Tutor",5d98101f-e32a-4a4a-a649-faa920d111ee,1996-10-08,mir,"Mirage"
+
+"Opt",958262ec-8e52-40cf-a9fd-a60e42643e15,2000-10-02,inv,"Invasion"
+
+"Spell Pierce",cb3d3901-e4a6-45ab-a7b5-c65d91e1875e,2009-10-02,zen,"Zendikar"
+
+"Snapcaster Mage",9e5b279e-4670-4a1e-87d0-3cab7e4f9e58,2011-09-30,isd,"Innistrad"
+
+"Boomerang",b8286edd-644b-4135-8dca-af97f3920de3,1994-06-01,leg,"Legends"
+
+"Counterspell",0df55e3f-14de-46ef-b6b1-616618724d9e,1993-08-05,lea,"Limited Edition Alpha"
+
+"Daze",d03bff25-0d5e-4dcf-8d75-6df846afea3b,2000-02-14,nem,"Nemesis"
+
+"Essence Scatter",c231101e-6620-46fc-a0ad-a53291d12dc2,2009-07-17,m10,"Magic 2010"
+
+"Impulse",9d710a97-062f-4773-b6c6-8aeddeb3b6e8,1997-02-03,vis,"Visions"
+
+"Into the Roil",5dba9972-dd8b-407b-9374-a8f0ed1a96db,2009-10-02,zen,"Zendikar"
+
+"Mana Drain",e691adef-3027-4e6a-889f-9f4e2df36a7c,1994-06-01,leg,"Legends"
+
+"Mana Leak",abcaf16d-aa02-43e2-aa38-bb1835d47a05,1998-03-02,sth,"Stronghold"
+
+"Memory Lapse",3d2cc591-3a81-468a-91a4-3c3aac83a21a,1995-10-01,hml,"Homelands"
+
+"Miscalculation",4b4956a2-9a39-4152-9c98-70e4b2acfa26,1999-02-15,ulg,"Urza's Legacy"
+
+"Negate",5a501252-e722-4ebf-bcf7-f53a42745fa7,2008-02-01,mor,"Morningtide"
+
+"Remand",581f3780-c480-48c6-b15c-1618f2feccb9,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Remove Soul",63de147c-2e62-41b9-8ada-93406387f08b,1994-06-01,leg,"Legends"
+
+"Telling Time",563e6cf4-e86f-4538-85a1-3abbc83b303d,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Force of Negation",e9be371c-c688-44ad-ab71-bd4c9f242d58,2019-06-14,mh1,"Modern Horizons"
+
+"Frantic Search",1904db14-6df7-424f-afa5-e3dfab31300a,1999-02-15,ulg,"Urza's Legacy"
+
+"Intuition",c99f6785-e5a1-4fdc-9fb5-e1a372e7e848,1997-10-14,tmp,"Tempest"
+
+"Repulse",9a04e9be-48be-440e-9825-cfffd4c2b1a4,2000-10-02,inv,"Invasion"
+
+"Subtlety",6ade923f-f064-4b5a-a6c0-348ca3e0dbed,2021-06-18,mh2,"Modern Horizons 2"
+
+"Thirst for Knowledge",0ff1f608-203e-4413-8753-37fc49731c87,2003-10-02,mrd,"Mirrodin"
+
+"Careful Consideration",bcf71574-5b1e-4483-9a8e-c3212148ce9c,2006-10-06,tsp,"Time Spiral"
+
+"Cryptic Command",829e3d6e-5d7c-4cc4-a7a6-7cbf5a7442ba,2007-10-12,lrw,"Lorwyn"
+
+"Dismiss",1e55d6be-7682-4786-9872-e847afd710b0,1997-10-14,tmp,"Tempest"
+
+"Fact or Fiction",7fd4d018-dcf3-4439-8445-02d66e44f7d3,2000-10-02,inv,"Invasion"
+
+"Snap",f7e0549e-2d23-4ea8-b8d1-ae21af2c9091,1999-02-15,ulg,"Urza's Legacy"
+
+"Force of Will",9a879b60-4381-447d-8a5a-8e0b6a1d49ca,1996-06-10,all,"Alliances"
+
+"Gush",e755bbef-bf34-49c0-ae72-d70e3599de52,1999-10-04,mmq,"Mercadian Masques"
+
+"Mystic Confluence",81bbffc2-6f58-4baa-8f95-168eab106b15,2015-11-13,c15,"Commander 2015"
+
+"Pact of Negation",cca467a2-a2b3-4bdf-9d60-62979f675347,2007-05-04,fut,"Future Sight"
+
+"Broken Ambitions",8052d90b-bc49-4a9e-9211-159a54aa2bcd,2007-10-12,lrw,"Lorwyn"
+
+"Kappa Cannoneer",712751fa-748e-4018-a9f5-fb83a706c570,2022-02-18,nec,"Neon Dynasty Commander"
+
+"Dig Through Time",5c18c2d8-995c-4736-bdef-464abcd1d31a,2014-09-26,ktk,"Khans of Tarkir"
+
+"Stroke of Genius",5e977755-8ea4-4a8b-90c4-dd175321e05d,1998-10-12,usg,"Urza's Saga"
+
+"Ancestral Vision",bccedc4d-38c7-4bf3-9ca7-4febd6c49d3d,2006-10-06,tsp,"Time Spiral"
+
+"Ponder",ba6b6fc5-5077-4812-b8e9-906783dbaf67,2007-10-12,lrw,"Lorwyn"
+
+"Preordain",e3868c3d-4fcd-444b-866f-0f8e50ce7b67,2010-07-16,m11,"Magic 2011"
+
+"Serum Visions",4bc61952-88ba-447a-835a-f1e9643fcd0d,2004-06-04,5dn,"Fifth Dawn"
+
+"Sleight of Hand",f3405184-dcda-4bb6-ade6-c2a87bc3296d,1998-06-24,p02,"Portal Second Age"
+
+"Chart a Course",98291778-2ec2-47e2-ac99-5f8cfbb3cf24,2017-09-29,xln,"Ixalan"
+
+"Mental Note",1f343724-6ecd-494f-8bfc-93676af4e173,2002-05-27,jud,"Judgment"
+
+"Time Walk",e0139f60-d48e-46fb-9f5a-1e3d7558c834,1993-08-05,lea,"Limited Edition Alpha"
+
+"Compulsive Research",20b9c057-b80a-4e4e-a0d7-34b7ff3a69f4,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Mulldrifter",a97cfefa-ade7-49f6-b2aa-1118b9db4935,2007-10-12,lrw,"Lorwyn"
+
+"Show and Tell",4b851c17-55ed-4671-b471-dc7b34944432,1998-10-12,usg,"Urza's Saga"
+
+"Timetwister",9a49dc44-616e-4bdd-8220-0bb71eccc512,1993-08-05,lea,"Limited Edition Alpha"
+
+"Tinker",7da23b15-dfb8-4267-9b33-d7a4c035c434,1999-02-15,ulg,"Urza's Legacy"
+
+"Deep Analysis",01e3c2e9-d8df-4a7a-be86-7be8c6254fa2,2002-02-04,tor,"Torment"
+
+"Chrome Host Seedshark",65c77833-8cd7-446f-bb67-454f85a972a4,2023-04-21,mom,"March of the Machine"
+
+"Temporal Manipulation",b3964160-79d6-4cdd-8b43-7a8f5dde9da7,1998-06-24,p02,"Portal Second Age"
+
+"Echo of Eons",ff590af2-2d6c-4f16-a9b8-1a6dab6e9ad5,2019-06-14,mh1,"Modern Horizons"
+
+"Time Spiral",f3d62dbd-63db-4ac9-950f-9852627f23f2,1998-10-12,usg,"Urza's Saga"
+
+"Upheaval",9e201229-34a6-48c8-a07c-d8aefcf5f8a7,2001-10-01,ody,"Odyssey"
+
+"Treasure Cruise",7a59d4b1-6cf4-44ec-8a96-1bb7094fea21,2014-09-26,ktk,"Khans of Tarkir"
+
+"Compulsion",2d1f56e8-55cb-4b81-9946-9f0f813e3d4a,2002-02-04,tor,"Torment"
+
+"Control Magic",7b52f459-c703-4a0b-9114-ff69eec61287,1993-08-05,lea,"Limited Edition Alpha"
+
+"Opposition",95be2701-af7c-483e-8165-e8bd4b2774ed,1999-06-07,uds,"Urza's Destiny"
+
+"Treachery",613694aa-b169-400d-8063-2b83d8303611,1999-06-07,uds,"Urza's Destiny"
+
+"Tolarian Academy",ad7ac9a5-340f-4509-826c-7b9416d47887,1998-10-12,usg,"Urza's Saga"
+
+"Bloodsoaked Champion",34bc9bb0-5ec1-400f-89e7-b450980a3391,2014-09-26,ktk,"Khans of Tarkir"
+
+"Carrion Feeder",88042031-64af-4f84-85d5-95992b43aa6c,2003-05-26,scg,"Scourge"
+
+"Dread Wanderer",343fc82d-7d10-4489-8f7e-9995322114e2,2017-04-28,akh,"Amonkhet"
+
+"Gutterbones",6a1c710b-bd67-4174-ab02-6ae98a7575ac,2019-01-25,rna,"Ravnica Allegiance"
+
+"Viscera Seer",6179f847-e334-4f7f-9a4e-0013942a394f,2010-07-16,m11,"Magic 2011"
+
+"Black Knight",c1662949-0d69-49a3-8c69-daf10717ed4e,1993-08-05,lea,"Limited Edition Alpha"
+
+"Blood Artist",2e1fb442-68ff-4249-8e44-87edf6fae211,2012-05-04,avr,"Avacyn Restored"
+
+"Bloodghast",63870c81-63bf-4a9a-aeb5-74c6eaded9f1,2009-10-02,zen,"Zendikar"
+
+"Dark Confidant",94f7a441-bf2d-46fb-a7b6-9bd6137f86d9,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Stinkweed Imp",628903a0-6695-4643-80f3-9a6efc4d6a27,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Jadar, Ghoulcaller of Nephalia",f29ec5be-501c-4a5d-8b2a-f974c6cf06c6,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Kitesail Freebooter",f62fd592-4910-417d-a500-e7029f3d119f,2017-09-29,xln,"Ixalan"
+
+"Mesmeric Fiend",b6edd4ea-c587-4d93-a675-4cdec3e0b1ca,2002-02-04,tor,"Torment"
+
+"Nether Traitor",911d2271-8998-4193-9d1a-1768c5dfaaad,2006-10-06,tsp,"Time Spiral"
+
+"Dread Return",d7e304fc-0ace-459e-8d2f-376f1899639c,2006-10-06,tsp,"Time Spiral"
+
+"Oona's Prowler",9675b8ea-47f9-440e-9535-de879da53f76,2007-10-12,lrw,"Lorwyn"
+
+"Pack Rat",170693f5-13db-4191-99b1-e527ffb5b88e,2012-10-05,rtr,"Return to Ravnica"
+
+"Reassembling Skeleton",655f983e-3b23-48ee-89d5-d01d469d5a6f,2010-06-18,arc,"Archenemy"
+
+"Zulaport Cutthroat",5c963d97-c948-45d9-84cc-58e246d35970,2015-10-02,bfz,"Battle for Zendikar"
+
+"Scrapheap Scrounger",216a8e4e-ea7b-41c7-a982-b5751025ff25,2016-09-30,kld,"Kaladesh"
+
+"Brain Maggot",acdc31d5-6726-453e-94e0-69d2fe9447af,2014-05-02,jou,"Journey into Nyx"
+
+"Bone Shredder",ece050ad-788e-4451-b773-ca42c37549d2,1999-02-15,ulg,"Urza's Legacy"
+
+"Hypnotic Specter",b43b900f-2d9b-442b-9699-058483604ec9,1993-08-05,lea,"Limited Edition Alpha"
+
+"Mardu Strike Leader",c93fd5f0-fb62-42cc-8c7d-c0368e191c4b,2015-01-23,frf,"Fate Reforged"
+
+"Midnight Reaper",5e122fe0-51c5-404d-a7b9-3d161a426c35,2018-10-05,grn,"Guilds of Ravnica"
+
+"Ophiomancer",66d80dd1-b944-4cb2-8578-b4dbcabbbc1e,2013-11-01,c13,"Commander 2013"
+
+"Phyrexian Rager",3addf34c-ea54-42a3-bccd-b73453d964d2,2001-06-04,apc,"Apocalypse"
+
+"Plaguecrafter",8682fb87-df14-4277-aaa0-0d53d766c406,2018-10-05,grn,"Guilds of Ravnica"
+
+"Rotting Regisaur",d88c61cb-dbf9-46c3-8795-8896ba1208d5,2019-07-12,m20,"Core Set 2020"
+
+"Vampire Nighthawk",44f19fe3-7a17-4c45-adfa-590f73dfebfa,2009-10-02,zen,"Zendikar"
+
+"Abyssal Persecutor",aee68b52-6377-419b-b772-2af1e57cbe5d,2010-02-05,wwk,"Worldwake"
+
+"Bloodline Keeper // Lord of Lineage",13896468-e3d0-4bcb-b09e-b5c187aecb03,2011-09-30,isd,"Innistrad"
+
+"Braids, Cabal Minion",4dcdcad5-e4fb-480e-984f-1ac5cdc986b9,2001-10-01,ody,"Odyssey"
+
+"Desecration Demon",8242fade-754c-4404-b3fb-f3cccf84b3b6,2012-10-05,rtr,"Return to Ravnica"
+
+"Nekrataal",dba3e342-88b7-4692-a3f7-a3f56c0cf6b5,1997-02-03,vis,"Visions"
+
+"Ravenous Chupacabra",02551196-ecea-472f-9547-3c9658d0489e,2018-01-19,rix,"Rivals of Ixalan"
+
+"Skinrender",be358357-2abe-4ead-bb18-76cad8274489,2010-10-01,som,"Scars of Mirrodin"
+
+"Yawgmoth, Thran Physician",8690cbcc-f8fd-41f7-9e28-e61c12b04014,2019-06-14,mh1,"Modern Horizons"
+
+"Custodi Lich",8c4306e0-afdb-4911-9dae-7ea7e6ad9a0a,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Doom Whisperer",0a11ee0d-ff8d-4648-8b4e-29440c135c30,2018-10-05,grn,"Guilds of Ravnica"
+
+"Drana, Kalastria Bloodchief",aca8d295-e8e9-4213-bc9b-f1acf57fb520,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Phyrexian Plaguelord",307bd530-4b11-428e-864e-e24e96051e3e,1999-02-15,ulg,"Urza's Legacy"
+
+"Silent Specter",bfd891ba-cf6a-4b83-a421-3a7c346ada31,2002-10-07,ons,"Onslaught"
+
+"Grave Titan",5fa6d385-6b8e-45ad-83dc-b477799c05a5,2010-07-16,m11,"Magic 2011"
+
+"Massacre Wurm",cdd32ec2-02a8-41fc-bf45-c9585bb2b3ee,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Avatar of Woe",0f695405-7238-48fb-9ea2-1b1613a0afda,2000-06-05,pcy,"Prophecy"
+
+"Griselbrand",b51666ae-2aef-4cb1-9cd4-44aec81530f8,2012-05-04,avr,"Avacyn Restored"
+
+"Yahenni, Undying Partisan",c37e2466-57c3-453f-aebe-340995f2eca7,2017-01-20,aer,"Aether Revolt"
+
+"Liliana of the Veil",ac506c17-adc8-49c6-9d8d-43db7cb1ec9d,2011-09-30,isd,"Innistrad"
+
+"Booster Tutor",c3a5b25e-c5af-417e-8675-162ab18ac2b1,2004-11-19,unh,"Unhinged"
+
+"Entomb",f60a2091-fb97-4f04-911b-fce9b6351044,2001-10-01,ody,"Odyssey"
+
+"Vampiric Tutor",0a07cba3-2e8d-48ec-a6f8-4d2edfcd833d,1997-02-03,vis,"Visions"
+
+"Cast Down",116ce944-6871-4f51-a889-d9c4a5d7cff2,2018-04-27,dom,"Dominaria"
+
+"Diabolic Edict",a2ecf2ee-1e2d-4ab2-8b2c-717c794b09b2,1997-10-14,tmp,"Tempest"
+
+"Doom Blade",6e19acff-f3dd-417a-a9ab-ea3e36c1ba61,2009-07-17,m10,"Magic 2010"
+
+"Go for the Throat",1c665cfc-7e9a-444b-96b5-e8e4ef57a98a,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Terror",21004958-2c7e-4a55-bc80-411c4d780106,1993-08-05,lea,"Limited Edition Alpha"
+
+"Ultimate Price",d2b4912a-83a2-4870-8fac-81fa79da2830,2012-10-05,rtr,"Return to Ravnica"
+
+"Dismember",064dfdeb-485f-473e-9fa0-8fdb7638cdc6,2011-05-13,nph,"New Phyrexia"
+
+"Hero's Downfall",596822f6-dbd4-4cc8-aa50-9331ff42544e,2013-09-27,ths,"Theros"
+
+"Beacon of Unrest",246a0e0c-cf75-46ec-a65b-e6d3d371f28a,2004-06-04,5dn,"Fifth Dawn"
+
+"Slaughter Pact",42696fdb-de1f-44ae-bef3-b6af068958d0,2007-05-04,fut,"Future Sight"
+
+"Makeshift Mannequin",79029161-a2c9-4cf6-94c0-31400daa0e8e,2007-10-12,lrw,"Lorwyn"
+
+"Vraska's Contempt",bd7550dd-dfc5-43cd-a117-1244ee3086a8,2017-09-29,xln,"Ixalan"
+
+"Hatred",2383a8d9-96fd-4f9a-bcf9-eb81fdb15ead,1998-06-15,exo,"Exodus"
+
+"The Meathook Massacre",08950015-eee5-4327-888c-82dfd13bb9ad,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Contract from Below",9853b0ce-4763-4877-9741-f9145a3659c6,1993-08-05,lea,"Limited Edition Alpha"
+
+"Living Death",6c820476-fbda-4073-baf6-51e71f45ed58,1997-10-14,tmp,"Tempest"
+
+"Divest",c6619810-7933-4844-8556-2a575ed7f18a,2018-04-27,dom,"Dominaria"
+
+"Duress",ca367f49-0f4a-4b7f-8104-851893fbcd8a,1998-10-12,usg,"Urza's Saga"
+
+"Imperial Seal",822e30db-40c5-4099-868b-185ad9b7c7dc,1999-07-06,ptk,"Portal Three Kingdoms"
+
+"Innocent Blood",d26af8f6-df64-4027-880c-f2fae2d8103f,2001-10-01,ody,"Odyssey"
+
+"Inquisition of Kozilek",6a3ff5c3-0fdb-4d54-b4e5-ce7bad9953f0,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Reanimate",ae1ef31c-8ca5-444c-8f39-e1d1827318f5,1997-10-14,tmp,"Tempest"
+
+"Thoughtseize",3df8c148-e87d-4043-9d8b-ec72bf8b6d5d,2007-10-12,lrw,"Lorwyn"
+
+"Chain of Smog",6bfe64f9-8b03-41f6-a47b-fade397ad9d1,2002-10-07,ons,"Onslaught"
+
+"Chainer's Edict",014af391-3b4a-4aab-a3e9-f60e61016985,2002-02-04,tor,"Torment"
+
+"Demonic Tutor",711d4d54-5520-4de8-9b93-79902ed8e562,1993-08-05,lea,"Limited Edition Alpha"
+
+"Primaris Eliminator",d31c8091-a66d-4f01-975b-0242888a5942,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Hymn to Tourach",58e125c6-81dc-4907-aad2-2ccd1cb166f0,1994-11-01,fem,"Fallen Empires"
+
+"Night's Whisper",61f0c6f6-b90d-4eb1-a5db-86e0a3997501,2004-06-04,5dn,"Fifth Dawn"
+
+"Shriekmaw",ea19eb5e-0d70-42e6-bda2-b13757e08ca6,2007-10-12,lrw,"Lorwyn"
+
+"Drowned Rusalka",68864836-799e-467d-97cc-38c89f71afcf,2006-02-03,gpt,"Guildpact"
+
+"Collective Brutality",cb94a02f-4660-45b6-8a39-941b710cf8f3,2016-07-22,emn,"Eldritch Moon"
+
+"Phyrexian Arena",84e19975-e3e1-453b-b902-a1b1fc1d8504,2001-06-04,apc,"Apocalypse"
+
+"Read the Bones",dbbdbf1a-2d15-4291-aa19-614f854d8cb3,2013-09-27,ths,"Theros"
+
+"Toxic Deluge",564caf57-4ba5-4993-a35e-945699c94eb7,2013-11-01,c13,"Commander 2013"
+
+"Damnation",26c68473-70ca-40ba-b5c6-71ec30f88a2c,2007-02-02,plc,"Planar Chaos"
+
+"Crux of Fate",e1d45374-a41b-4b3f-a7c8-3eb5ca767cf6,2015-01-23,frf,"Fate Reforged"
+
+"Mind Twist",eee9e106-a248-49d2-b8c8-6bbcd56ce739,1993-08-05,lea,"Limited Edition Alpha"
+
+"Invasion of Fiora // Marchesa, Resolute Monarch",05a292df-4323-4789-bba4-7f4599e24027,2023-04-21,pmom,"March of the Machine Promos"
+
+"Animate Dead",8fd7861d-925f-4b4c-a4ab-60be6f43d50b,1993-08-05,lea,"Limited Edition Alpha"
+
+"Bitterblossom",8145fed6-6b51-420a-84cf-4ea5e0aa1883,2008-02-01,mor,"Morningtide"
+
+"Dreadhorde Invasion",04c6e42d-991d-4e6b-a900-38480931f79e,2019-05-03,war,"War of the Spark"
+
+"Necromancy",311a6257-dd77-4bb6-81cb-c8e7862350f3,1997-02-03,vis,"Visions"
+
+"Necropotence",54d7a0c1-efb4-4a8d-ad92-a96d43835052,1995-06-03,ice,"Ice Age"
+
+"Grave Pact",940536be-fce1-4a90-9126-195815a43e0f,1998-03-02,sth,"Stronghold"
+
+"Recurring Nightmare",c8173030-1c33-417c-b8e9-79231b6a85a7,1998-06-15,exo,"Exodus"
+
+"Diabolic Servitude",0cb1e0c9-9041-44cd-9e96-87cf14c67068,1998-10-12,usg,"Urza's Saga"
+
+"Volrath's Stronghold",43bf015b-152e-4d67-b773-e75fb2487a32,1998-03-02,sth,"Stronghold"
+
+"Falkenrath Gorger",474895d8-1f2c-45bb-b721-4cf7c290eb23,2016-04-08,soi,"Shadows over Innistrad"
+
+"Firedrinker Satyr",683eaf5a-2f43-477f-b212-70ca5fe04f13,2013-09-27,ths,"Theros"
+
+"Frenzied Goblin",d307d8c7-b9b5-4f8f-933d-f1c64cbbf92f,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Goblin Bushwhacker",4085a5bf-a71b-4c73-9b39-0dcc328fe11b,2009-10-02,zen,"Zendikar"
+
+"Goblin Guide",b2e2a777-0705-4a37-937d-c6e020ebc0f0,2009-10-02,zen,"Zendikar"
+
+"Goblin Welder",6171e136-1167-4329-acb2-6853d3a814e5,1999-02-15,ulg,"Urza's Legacy"
+
+"Greater Gargadon",653ddfa0-2088-4503-a3ab-b0f1d55d8351,2006-10-06,tsp,"Time Spiral"
+
+"Grim Lavamancer",5dd72697-24be-42c7-a6d9-a837bdbd4662,2002-02-04,tor,"Torment"
+
+"Jackal Pup",3707ab74-9aec-4d30-86e0-ffa5f72d5b4f,1997-10-14,tmp,"Tempest"
+
+"Monastery Swiftspear",b81c6c8b-a9cf-4866-89ba-7f8ad077b836,2014-09-26,ktk,"Khans of Tarkir"
+
+"Rakdos Cackler",5f873c0b-e779-4f09-8e9c-94a1765eb5da,2012-10-05,rtr,"Return to Ravnica"
+
+"Reckless Waif // Merciless Predator",028aeebc-4073-4595-94da-02f9f96ea148,2011-09-30,isd,"Innistrad"
+
+"Soul-Scar Mage",a8003786-6e2a-4e2d-a915-f23293c7273a,2017-04-28,akh,"Amonkhet"
+
+"Stromkirk Noble",9c16cf74-f9e0-4d80-9a29-b91dec0b6b38,2011-09-30,isd,"Innistrad"
+
+"Zurgo Bellstriker",bbac6d75-59ab-4d7d-87ae-46875abf8cc7,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Bomat Courier",425bff89-ad15-4d22-bce9-a4a07dbafd87,2016-09-30,kld,"Kaladesh"
+
+"Bloodrage Brawler",e6080f9e-2415-4e05-97a1-0fe4ad4fdf3b,2017-04-28,akh,"Amonkhet"
+
+"Earthshaker Khenra",0d60eabe-b281-4eba-9c26-287364ed2067,2017-07-14,hou,"Hour of Devastation"
+
+"Goblin Cratermaker",86ecaedc-08f1-4de7-aae8-056df57940e0,2018-10-05,grn,"Guilds of Ravnica"
+
+"Gore-House Chainwalker",56ba132f-95fc-4b99-a1dc-ebe6f622bb41,2012-10-05,rtr,"Return to Ravnica"
+
+"Shrapnel Blast",056affab-4e2a-4b68-b864-d879becd3c45,2003-10-02,mrd,"Mirrodin"
+
+"Kari Zev, Skyship Raider",72495879-39ce-449d-ad2f-ef32ea46f3aa,2017-01-20,aer,"Aether Revolt"
+
+"Keldon Marauders",677c28db-34d2-4325-99d1-9b689753802f,2007-02-02,plc,"Planar Chaos"
+
+"Kiln Fiend",0c584268-67c3-411b-a26c-aee3adf23872,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Lightning Mauler",241cc968-b93e-4fe3-a66d-7776d29aa023,2012-05-04,avr,"Avacyn Restored"
+
+"Plated Geopede",fd8b5c0c-acda-411e-9f17-6d9292628a56,2009-10-02,zen,"Zendikar"
+
+"Stormblood Berserker",fc9a50af-ca3e-461a-9dcb-444f56284165,2011-07-15,m12,"Magic 2012"
+
+"Dreadhorde Arcanist",fd97b3cf-924e-4f77-bb82-0bf19592389f,2019-05-03,war,"War of the Spark"
+
+"Young Pyromancer",e349c204-3a93-4bf7-b79a-5f5f261ea2d3,2013-07-19,m14,"Magic 2014"
+
+"Eidolon of the Great Revel",a6c10816-e825-452a-90b0-80eb9f20bd6d,2014-05-02,jou,"Journey into Nyx"
+
+"Bloodfeather Phoenix",5a56ccab-6a43-48b4-ad65-b618e07c001f,2023-04-21,mom,"March of the Machine"
+
+"Feldon of the Third Path",4c174e92-bc2a-42ba-9ce7-8c9fdf0a27f0,2014-11-07,c14,"Commander 2014"
+
+"Goblin Rabblemaster",ee9c697e-d2c0-413b-9142-ecf5d7cf5322,2014-07-18,m15,"Magic 2015"
+
+"Guttersnipe",9d8590ea-512c-4e09-97cc-7f07d0706f2b,2012-10-05,rtr,"Return to Ravnica"
+
+"Hanweir Garrison",0900e494-962d-48c6-8e78-66a489be4bb2,2016-07-22,emn,"Eldritch Moon"
+
+"Wildfire",b69cfcb0-db68-4494-a3e1-7c2ca279fcf5,1998-06-24,p02,"Portal Second Age"
+
+"Imperial Recruiter",1c473253-3992-4cc1-8b46-5d1da308c537,1999-07-06,ptk,"Portal Three Kingdoms"
+
+"Krenko, Tin Street Kingpin",37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a,2019-05-03,war,"War of the Spark"
+
+"Legion Warboss",5e84cb9c-9876-47a4-aea4-78574321bc36,2018-10-05,grn,"Guilds of Ravnica"
+
+"Manic Vandal",a503697a-4940-4b8f-98b1-5ea9151866fa,2010-07-16,m11,"Magic 2011"
+
+"Najeela, the Blade-Blossom",2cb1d1da-6077-46b5-8c63-39882b8016f2,2018-06-08,bbd,"Battlebond"
+
+"Pyrewild Shaman",8c6f6e45-f613-420d-83d2-d93c643265ee,2013-05-03,dgm,"Dragon's Maze"
+
+"Seasoned Pyromancer",2e139ad1-1079-49e9-babd-6399c44ad333,2019-06-14,mh1,"Modern Horizons"
+
+"Avalanche Riders",3bdc5330-c76b-40ca-a694-58fa4b9b7304,1999-02-15,ulg,"Urza's Legacy"
+
+"Hanweir Battlements",1d743ad6-6ca2-409a-9773-581cc195dbf2,2016-07-22,emn,"Eldritch Moon"
+
+"Flametongue Kavu",e5056bca-bd90-4b50-8630-105558f8ef92,2001-02-05,pls,"Planeshift"
+
+"Hazoret the Fervent",36ed9f9d-99a7-49f4-b0ad-d71355809d32,2017-04-28,akh,"Amonkhet"
+
+"Hellrider",0ec8d800-7f06-44e0-b22d-cdff0a9b153d,2012-02-03,dka,"Dark Ascension"
+
+"Ogre Battledriver",bff2d740-22cc-4719-ac58-28621951e68d,2013-07-19,m14,"Magic 2014"
+
+"Rekindling Phoenix",daccec32-84c6-4de4-9b00-c497a6ba5de8,2018-01-19,rix,"Rivals of Ixalan"
+
+"Rocket-Powered Turbo Slug",e405361f-70df-459d-9385-2210fbe7e115,2004-11-19,unh,"Unhinged"
+
+"Glorybringer",3277ad99-5682-4baa-b106-de15721876a6,2017-04-28,akh,"Amonkhet"
+
+"Kiki-Jiki, Mirror Breaker",162018eb-5483-4fa2-9c5a-abb639eecf91,2004-10-01,chk,"Champions of Kamigawa"
+
+"Siege-Gang Commander",92e78cec-aaf9-4fe8-887b-b7e356d63315,2003-05-26,scg,"Scourge"
+
+"Thundermaw Hellkite",d0476e0f-61df-46a6-aaf1-8ee79c701160,2012-07-13,m13,"Magic 2013"
+
+"Zealous Conscripts",fc027b11-1ecc-430d-a862-586a14bb23c3,2012-05-04,avr,"Avacyn Restored"
+
+"Inferno Titan",f1e4a028-6462-4373-9864-a8adfc78d52b,2010-07-16,m11,"Magic 2011"
+
+"Bogardan Hellkite",5852f528-92aa-45cf-8436-5774691676d3,2006-10-06,tsp,"Time Spiral"
+
+"Chandra, Torch of Defiance",ff8086cd-b868-4f4e-823e-2635ad7ebc07,2016-09-30,kld,"Kaladesh"
+
+"Chandra, Awakened Inferno",49d2a680-4f3b-4bfa-b77b-d2dfaced9f23,2019-07-12,m20,"Core Set 2020"
+
+"Fireblast",b1eb5b2c-1f02-48a6-a287-88eb189d6780,1997-02-03,vis,"Visions"
+
+"Burst Lightning",2dc16614-5cf8-444d-a5ae-cac25018af68,2009-10-02,zen,"Zendikar"
+
+"Lightning Bolt",d573ef03-4730-45aa-93dd-e45ac1dbaf4a,1993-08-05,lea,"Limited Edition Alpha"
+
+"Shock",f9b2ff2a-6dfe-4635-8da2-22d525e82b94,1998-03-02,sth,"Stronghold"
+
+"Tarfire",d13a898e-6a97-4fd9-980e-3bfd8d755386,2007-10-12,lrw,"Lorwyn"
+
+"Abrade",84319dfb-eaf7-4b98-8c4f-30f5e779591b,2017-07-14,hou,"Hour of Devastation"
+
+"Incinerate",9c3f00af-010d-4485-b8b7-47400d99c496,1995-06-03,ice,"Ice Age"
+
+"Lightning Strike",bbb03f2e-2b92-4aa1-afae-301ed5d151d3,2013-09-27,ths,"Theros"
+
+"Magma Jet",51ea1728-08aa-4553-90b2-919c70712ed5,2004-06-04,5dn,"Fifth Dawn"
+
+"Searing Spear",11a94b7c-0216-473c-87a6-71e5a64d7799,2012-07-13,m13,"Magic 2013"
+
+"Brimstone Volley",6960f2da-6b84-4680-8ab2-f0567a5d1b0a,2011-09-30,isd,"Innistrad"
+
+"Chaos Warp",042431bc-0b21-4920-802f-6dd02e4c8721,2011-06-17,cmd,"Commander 2011"
+
+"Char",ff3a24af-e995-4d05-ac2c-e9676048675d,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Garbage Fire",4d76b91e-e79c-4c7e-ae3c-2b27b7e871ef,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Puncture Blast",3bf90b4d-98cf-4953-b6ae-c41d21ab559b,2008-07-25,eve,"Eventide"
+
+"Risk Factor",4eda89d9-9bd1-4a55-ac02-f9a0625d8e5b,2018-10-05,grn,"Guilds of Ravnica"
+
+"Staggershock",75624ab3-ddbd-4fe8-8a07-7d1f78ec8a84,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Urza's Rage",61a25a35-3ae4-471e-adcd-d8baf2f77b68,2000-10-02,inv,"Invasion"
+
+"Rimrock Knight // Boulder Rush",a3d13d84-01e4-4429-93db-e5afff811527,2019-10-04,eld,"Throne of Eldraine"
+
+"Etali, Primal Storm",1d3d8bb4-0430-45bb-930d-5d6db6521945,2018-01-19,rix,"Rivals of Ixalan"
+
+"Chain Lightning",b5883762-ca0a-4932-8d2a-41a45796a5f8,1994-06-01,leg,"Legends"
+
+"Faithless Looting",a1b0da17-d595-441d-811c-a2d28d2bb232,2012-02-03,dka,"Dark Ascension"
+
+"Firebolt",d5e45005-dd81-4d80-b043-02f719aca929,2001-10-01,ody,"Odyssey"
+
+"Galvanic Blast",f5881bbc-8600-464d-9dcd-5a7780918d1d,2010-10-01,som,"Scars of Mirrodin"
+
+"Forked Bolt",06127297-fdaa-45bf-a82e-4fc61315e0e2,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Reckless Charge",0938e686-345e-4411-b564-cf9324ec6b9d,2001-10-01,ody,"Odyssey"
+
+"Seal of Fire",37eaf1f6-4bdc-4669-9a15-50b65e016ccf,2000-02-14,nem,"Nemesis"
+
+"Arc Trail",445e3a0a-29a7-4dc0-80fe-569b9e751db3,2010-10-01,som,"Scars of Mirrodin"
+
+"Fire Ambush",4dd8bdbd-99c9-4fa7-936a-acc7f4238507,1999-07-06,ptk,"Portal Three Kingdoms"
+
+"Incendiary Flow",cf464f61-8a7f-493b-a80f-2f2b0ebd8bf6,2016-07-22,emn,"Eldritch Moon"
+
+"Volcanic Hammer",9563d7c1-4ed1-4919-b0b8-ea1ec9d4bbf6,1997-05-01,por,"Portal"
+
+"Arc Lightning",0c81ade7-0074-4447-ba2c-b16fa0f09ccb,1998-10-12,usg,"Urza's Saga"
+
+"Exquisite Firecraft",42eca98e-a164-4f70-a0b0-7a604863f30b,2015-07-17,ori,"Magic Origins"
+
+"Flames of the Firebrand",aca215b1-7b98-49ce-afae-eeb61058125a,2012-07-13,m13,"Magic 2013"
+
+"Invasion of Tarkir // Defiant Thundermaw",a98f71a0-7c99-4cee-8f70-877e698cca84,2023-04-21,mom,"March of the Machine"
+
+"Pillage",389ecb50-b007-4086-89fb-ec2daa5afdcf,1996-06-10,all,"Alliances"
+
+"Wheel of Fortune",67b369c4-faa8-45c8-a1b9-98f228b69682,1993-08-05,lea,"Limited Edition Alpha"
+
+"Fiery Confluence",7b61c9bc-16e8-417f-99e7-8bd83d4666c5,2015-11-13,c15,"Commander 2015"
+
+"Magus of the Scroll",6060cada-52bf-4ef2-8a26-8ba04dded458,2006-10-06,tsp,"Time Spiral"
+
+"Banefire",b188c68a-e9df-4803-a722-1993dd88f833,2009-02-06,con,"Conflux"
+
+"Burning of Xinye",33a1fe45-52d2-4c50-bedc-eee156ab69c8,1999-07-06,ptk,"Portal Three Kingdoms"
+
+"Wildfire",b69cfcb0-db68-4494-a3e1-7c2ca279fcf5,1998-06-24,p02,"Portal Second Age"
+
+"Maddening Hex",c8dd3a8d-5434-4405-8d17-e419a20f074a,2021-07-23,afc,"Forgotten Realms Commander"
+
+"Sulfuric Vortex",79955e27-eef7-43bd-9895-e9209ed1537f,2003-05-26,scg,"Scourge"
+
+"Sneak Attack",d07dc95d-82a8-4a58-8ea2-d4513bd7316d,1998-10-12,usg,"Urza's Saga"
+
+"Arbor Elf",6d32a4ed-6b43-4473-91ec-08cd5414f2f0,2010-02-05,wwk,"Worldwake"
+
+"Avacyn's Pilgrim",7eb39e97-53c2-4df0-9fb3-a3d6a24ec41f,2011-09-30,isd,"Innistrad"
+
+"Birds of Paradise",55fe6449-1f23-43dc-adee-d144cd505b5c,1993-08-05,lea,"Limited Edition Alpha"
+
+"Boreal Druid",473d3633-6dc7-4026-a50e-3ea76b9e8c20,2006-07-21,csp,"Coldsnap"
+
+"Elves of Deep Shadow",f395278e-6d74-4f35-af9d-21bad7b19763,1994-08-01,drk,"The Dark"
+
+"Elvish Mystic",60d0e6a6-629a-45a7-bfcb-25ba7156788b,2013-07-19,m14,"Magic 2014"
+
+"Fyndhorn Elves",3ba95ffa-990a-4013-98b7-5d8c0b34e9c4,1995-06-03,ice,"Ice Age"
+
+"Sanctum Weaver",15fd218c-3e14-4b82-9e03-16a0fad1b530,2021-06-18,mh2,"Modern Horizons 2"
+
+"Joraga Treespeaker",1132218d-56cd-441e-9006-df3c50344491,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Llanowar Elves",d4f1cc9e-4f99-4c26-ac1b-8ef069fa8ceb,1993-08-05,lea,"Limited Edition Alpha"
+
+"Noble Hierarch",6adfe928-1305-444d-b709-1e714544daaf,2009-02-06,con,"Conflux"
+
+"Nature's Lore",668d2969-b6b7-4507-bdd4-20bbaa68035a,1995-06-03,ice,"Ice Age"
+
+"Devoted Druid",820e2f07-f637-4144-b45a-0e1430dcf55e,2008-05-02,shm,"Shadowmoor"
+
+"Duskwatch Recruiter // Krallenhorde Howler",e1915d93-c7dd-4bb7-bd5c-63a359a02b97,2016-04-08,soi,"Shadows over Innistrad"
+
+"Fauna Shaman",c685e4c3-eb7b-4b9e-9676-395d69d80974,2010-07-16,m11,"Magic 2011"
+
+"Incubation Druid",075bbe5d-d0f3-4be3-a3a6-072d5d3d614c,2019-01-25,rna,"Ravnica Allegiance"
+
+"Lotus Cobra",19adde22-e5eb-4815-beb6-c520b3274cc9,2009-10-02,zen,"Zendikar"
+
+"Mayor of Avabruck // Howlpack Alpha",dd8ca448-f734-4cb9-b1d5-790eed9a4b2d,2011-09-30,isd,"Innistrad"
+
+"Rofellos, Llanowar Emissary",6aa5cc65-f8f1-4f6f-8b4e-2fedccbda684,1999-06-07,uds,"Urza's Destiny"
+
+"Sakura-Tribe Elder",91c7707a-bae0-4196-bf26-d276f57b7369,2004-10-01,chk,"Champions of Kamigawa"
+
+"Scavenging Ooze",371ceb58-f498-4616-a7f0-eb118fe2e4ff,2011-06-17,cmd,"Commander 2011"
+
+"Tarmogoyf",b6876d9e-0908-43ac-8542-09c7aa02b5ba,2007-05-04,fut,"Future Sight"
+
+"Wall of Roots",aeb151d2-c313-44d2-972e-33487f070c23,1996-10-08,mir,"Mirage"
+
+"Werebear",964cf7e3-932d-432f-8ad4-9bd651aada96,2001-10-01,ody,"Odyssey"
+
+"Utopia Sprawl",5047e271-fbf1-402c-9eb9-0806e5988f76,2006-05-05,dis,"Dissension"
+
+"Call of the Herd",429a88cc-53db-4c5e-a061-f0f49a38c675,2001-10-01,ody,"Odyssey"
+
+"Eternal Witness",c7e10ca7-1e5d-4224-82cf-798a4d436d72,2004-06-04,5dn,"Fifth Dawn"
+
+"Imperious Perfect",706fce74-fed9-4bf7-949d-7df6bef29238,2007-10-12,lrw,"Lorwyn"
+
+"Managorger Hydra",1a08e5ab-1ff9-4470-ab28-fea19bb79845,2015-07-17,ori,"Magic Origins"
+
+"Manglehorn",0aa3a844-97e6-4f5d-a36f-56fea4e06932,2017-04-28,akh,"Amonkhet"
+
+"Reclamation Sage",47227cfa-4cef-4874-b331-d2f628f29dae,2014-07-18,m15,"Magic 2015"
+
+"Inscription of Abundance",e14c74a8-be66-4268-93fa-b32765fd82e2,2020-09-25,znr,"Zendikar Rising"
+
+"Thrashing Brontodon",0d9264ff-9f7c-46f3-862a-fee7ad213250,2018-01-19,rix,"Rivals of Ixalan"
+
+"Tireless Tracker",ee8e9928-d9b2-4570-adb8-44b34115decd,2016-04-08,soi,"Shadows over Innistrad"
+
+"Wood Elves",b7f1fb90-5c85-46a5-802d-248cc0250921,1997-05-01,por,"Portal"
+
+"Boon Satyr",f50c12c4-5565-449a-b30e-7cd896da7735,2013-09-27,ths,"Theros"
+
+"Courser of Kruphix",da5a807f-58e8-4d92-a61c-47bb9b28977f,2014-02-07,bng,"Born of the Gods"
+
+"Bramble Sovereign",cc2d644f-6fb9-406b-ba57-a9b3d1c9646b,2018-06-08,bbd,"Battlebond"
+
+"Master of the Wild Hunt",2cf3169c-f01c-47f4-ba4b-e199b7ade5fc,2009-07-17,m10,"Magic 2010"
+
+"Nightpack Ambusher",2c9b1f70-9861-4c66-a52f-c40002679e75,2019-07-12,m20,"Core Set 2020"
+
+"Polukranos, World Eater",4979cc1b-9c1a-47e4-ae37-7c41798eb89a,2013-09-27,ths,"Theros"
+
+"Thrun, the Last Troll",5d393da0-4cb6-4ae8-b747-8e6d0fa7f55a,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Vengevine",51eb9f05-9d5a-4196-9329-626ce4793c42,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Wickerbough Elder",acc283b4-9106-4a32-88b4-000f2a3bed84,2008-07-25,eve,"Eventide"
+
+"Deep Forest Hermit",3287775f-7bec-4e8f-bb8d-daf5ce92e4a8,2019-06-14,mh1,"Modern Horizons"
+
+"Deranged Hermit",bf0e94c9-61c4-4cc0-b5ce-db62bc2660ee,1999-02-15,ulg,"Urza's Legacy"
+
+"Genesis",b43aee5e-b12e-43ea-9fae-16310acdc640,2002-05-27,jud,"Judgment"
+
+"Mycoloth",15360a16-b785-4ffe-bfa8-6c7f6a37455d,2008-10-03,ala,"Shards of Alara"
+
+"Thragtusk",28667c8b-d02c-4e57-a050-1549207b65d1,2012-07-13,m13,"Magic 2013"
+
+"Verdurous Gearhulk",0130b99e-5b2f-4482-b141-752e59b72c31,2016-09-30,kld,"Kaladesh"
+
+"Primeval Titan",feee9327-b937-46ba-a2aa-6c015ab6cdd5,2010-07-16,m11,"Magic 2011"
+
+"Vigor",5cede0be-1bdd-4392-beaf-b83d0b780eb7,2007-10-12,lrw,"Lorwyn"
+
+"Ghalta, Primal Hunger",0104b5b3-9376-4ad7-9a77-3e564e9c42e6,2018-01-19,rix,"Rivals of Ixalan"
+
+"Garruk Wildspeaker",ca6f13a2-9243-4ce9-9f71-bed74355b781,2007-10-12,lrw,"Lorwyn"
+
+"Berserk",e173c8ce-2352-405e-ad00-e3bb94ced1ad,1993-08-05,lea,"Limited Edition Alpha"
+
+"Giant Growth",367dbefe-3366-408e-9fcf-7dc00f8cc201,1993-08-05,lea,"Limited Edition Alpha"
+
+"Vines of Vastwood",e8bd8b10-de86-4bb6-b49f-6ccb5297c81c,2009-10-02,zen,"Zendikar"
+
+"Worldly Tutor",f00115bc-b551-4bf5-a121-bebb37201575,1996-10-08,mir,"Mirage"
+
+"Briarhorn",b734a0a8-aa21-4fc0-b20d-5fea172884f6,2007-10-12,lrw,"Lorwyn"
+
+"Beast Within",ce5b6d19-22e3-4f57-8f4d-a17e982286c7,2011-05-13,nph,"New Phyrexia"
+
+"Life from the Loam",7ac16d09-8bc7-407c-a757-666f4707bc90,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Krosan Grip",59b524bb-5a18-4dda-9c45-26ce9ff0f0c1,2006-10-06,tsp,"Time Spiral"
+
+"Edge of Autumn",03998e86-ef67-4329-b106-61252f3f532a,2007-05-04,fut,"Future Sight"
+
+"Farseek",8180abec-9459-4b81-987e-b1794e45d543,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Invasion of Ixalan // Belligerent Regisaur",3befb543-547a-46ac-8488-a7f2069d3d88,2023-04-21,pmom,"March of the Machine Promos"
+
+"Rampant Growth",a9dd8043-4099-42bb-9d54-4efc8b38fe18,1996-10-08,mir,"Mirage"
+
+"Regrowth",badc73ec-3728-4246-90c7-5f4eb7051ed5,1993-08-05,lea,"Limited Edition Alpha"
+
+"Overgrowth",bb9179f5-c3e0-4499-9cfb-6cb7e8329a59,1998-03-02,sth,"Stronghold"
+
+"Kodama's Reach",85d207ac-0680-47ef-85d9-4323c1321d6f,2004-10-01,chk,"Champions of Kamigawa"
+
+"Search for Tomorrow",56f739e8-b4ba-426a-a159-0e0d5a0ebb6f,2006-10-06,tsp,"Time Spiral"
+
+"Harmonize",4b90dbd0-4672-4c0b-92eb-262ddd11cd32,2007-02-02,plc,"Planar Chaos"
+
+"Natural Order",0845f0b0-9413-4ddd-861d-9607636bebc6,1997-02-03,vis,"Visions"
+
+"Overrun",0ad7a961-d3a1-471a-8472-8407d1057de0,1997-10-14,tmp,"Tempest"
+
+"Primal Command",40d2c5b9-cef9-4763-8e65-e3b1418c0ad3,2007-10-12,lrw,"Lorwyn"
+
+"Chord of Calling",e064174b-8f07-4fea-9eef-c3b5d0220b1a,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Tooth and Nail",02f0067c-2d38-46bd-b52e-070c2ce424f0,2003-10-02,mrd,"Mirrodin"
+
+"Exploration",2f09e451-0246-45a2-8bfd-07d3c65ddfe6,1998-10-12,usg,"Urza's Saga"
+
+"Fastbond",a575a9af-e1de-4a1d-91d8-440585377e4f,1993-08-05,lea,"Limited Edition Alpha"
+
+"Rancor",59e256c2-38df-4012-9308-ce17dd889e5f,1999-02-15,ulg,"Urza's Legacy"
+
+"Oath of Druids",cf14de50-d123-400c-862e-2c95fd2aa23f,1998-06-15,exo,"Exodus"
+
+"Survival of the Fittest",c060c178-3c0e-493f-b6f0-ead5b1d6f191,1998-06-15,exo,"Exodus"
+
+"Sylvan Library",f486df00-7c4a-4ff0-bb0b-c8b5432ac742,1994-06-01,leg,"Legends"
+
+"Gaea's Cradle",25b0b816-0583-44aa-9dc5-f3ff48993a51,1998-10-12,usg,"Urza's Saga"
+
+"Azorius Chancery",e58365d2-e4db-444b-b1a9-795668ad3038,2006-05-05,dis,"Dissension"
+
+"Celestial Colonnade",f6929259-2903-4f6f-9b06-42048fd55c6a,2010-02-05,wwk,"Worldwake"
+
+"Flooded Strand",b4e3d844-d3b4-41d8-921d-c1cb3af343f8,2002-10-07,ons,"Onslaught"
+
+"Hallowed Fountain",c28aea19-2a39-4934-afda-909e234fa3ba,2006-05-05,dis,"Dissension"
+
+"Tundra",a03e8c5b-f4ed-4fd7-ba05-db813ccc05eb,1993-08-05,lea,"Limited Edition Alpha"
+
+"Azorius Signet",d91a527d-51f1-4fb1-9016-fc923fd43a6a,2006-05-05,dis,"Dissension"
+
+"Talisman of Progress",41ff849e-2439-4690-8aa4-769039b6da4c,2003-10-02,mrd,"Mirrodin"
+
+"Plumeveil",8e8b0449-3ae5-4fee-b870-af12be5e5a64,2008-05-02,shm,"Shadowmoor"
+
+"Grand Arbiter Augustin IV",a2ac328b-923f-48dd-a4f5-de389ade9125,2006-05-05,dis,"Dissension"
+
+"Supreme Verdict",4e9648f9-7a67-4717-bca1-861d1f7fed43,2012-10-05,rtr,"Return to Ravnica"
+
+"Absorb",5d6a0f3e-457f-41f5-be26-5fb249874f1a,2000-10-02,inv,"Invasion"
+
+"Sphinx's Revelation",404d9413-ef57-4b6e-8584-48a1dc7fe6f1,2012-10-05,rtr,"Return to Ravnica"
+
+"Creeping Tar Pit",0f427f0b-034c-4821-8758-e395c0042d8a,2010-02-05,wwk,"Worldwake"
+
+"Dimir Aqueduct",df3c3d56-8291-407e-87a1-94b7d12811fd,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Polluted Delta",0f7585c8-9e21-4eef-afc1-2852de23db2f,2002-10-07,ons,"Onslaught"
+
+"Underground Sea",ff76ac86-8a8a-47fe-9388-8950ca3e26c3,1993-08-05,lea,"Limited Edition Alpha"
+
+"Watery Grave",139b90cd-8272-457a-be32-1298145345be,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Dimir Signet",9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Talisman of Dominance",991037a2-fea2-49f5-8ace-ebbf9f678cff,2003-10-02,mrd,"Mirrodin"
+
+"Psychatog",6757bf0e-489f-4be2-9e41-463b59f00dd1,2001-10-01,ody,"Odyssey"
+
+"Shadowmage Infiltrator",932ce702-565f-4d8c-b9fc-2d7c939ef7d7,2001-10-01,ody,"Odyssey"
+
+"Badlands",717f6d10-9144-4ade-9ac6-a481cc66b875,1993-08-05,lea,"Limited Edition Alpha"
+
+"Blood Crypt",f281e16f-0fe1-4095-bd63-0a4479f75c11,2006-05-05,dis,"Dissension"
+
+"Bloodstained Mire",68c72226-6f52-4322-8b14-18737293dfa0,2002-10-07,ons,"Onslaught"
+
+"Lavaclaw Reaches",c7066095-f05a-4f2e-ab9c-47c498608ccb,2010-02-05,wwk,"Worldwake"
+
+"Rakdos Carnarium",34f146f3-6541-4d2a-96e3-a3cd680c0a1e,2006-05-05,dis,"Dissension"
+
+"Rakdos Signet",17a3f95c-5a05-46ea-8dc6-b77b59324035,2006-05-05,dis,"Dissension"
+
+"Talisman of Indulgence",e14011b3-56ce-4b93-833f-d8403809159c,2003-10-02,mrd,"Mirrodin"
+
+"Judith, the Scourge Diva",0a742125-730d-4082-bfd8-5feb7733def4,2019-01-25,rna,"Ravnica Allegiance"
+
+"Daretti, Ingenious Iconoclast",ad30aec2-cb67-4c92-9694-d33bef1884ee,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"Kolaghan's Command",7c884e1e-fecb-4330-b3de-5fc2a60f7173,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Gruul Turf",550b70e0-ebd5-49de-b62c-5224b8bf8e98,2006-02-03,gpt,"Guildpact"
+
+"Kessig Wolf Run",4a8447fe-7368-470a-911a-1083ec6cc831,2011-09-30,isd,"Innistrad"
+
+"Raging Ravine",cb7b6fb5-4d38-4734-b46f-923322cff24e,2010-02-05,wwk,"Worldwake"
+
+"Stomping Ground",a2773d8f-f906-475d-aaff-b7ca3b01f188,2006-02-03,gpt,"Guildpact"
+
+"Taiga",60df6592-0b3b-4b87-aeb2-8fa94b4fb7be,1993-08-05,lea,"Limited Edition Alpha"
+
+"Wooded Foothills",cdad38f7-9dfa-4f1b-9fac-41ab2b253f53,2002-10-07,ons,"Onslaught"
+
+"Gruul Signet",1bb30340-96a4-49d8-838b-8788900401a0,2006-02-03,gpt,"Guildpact"
+
+"Talisman of Impulse",a00b65f7-70d0-4bbd-ac13-be24cc3374ee,2003-10-02,mrd,"Mirrodin"
+
+"Rhythm of the Wild",84062ce2-fea2-4e06-b83b-7cc597fb2a1b,2019-01-25,rna,"Ravnica Allegiance"
+
+"Bloodbraid Elf",7ef67487-c8e5-49bb-b0f7-e073ff2e31f1,2009-04-30,arb,"Alara Reborn"
+
+"Xenagos, God of Revels",3184b138-1109-4195-9d96-4f190164e98b,2014-02-07,bng,"Born of the Gods"
+
+"Savannah",94f7e24c-2546-41b6-81ad-5e920b07e64e,1993-08-05,lea,"Limited Edition Alpha"
+
+"Selesnya Sanctuary",c5e51787-f9c9-4926-9df1-a384a3092676,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Stirring Wildwood",d556d10b-83cc-4736-b269-4ce65aae2837,2010-02-05,wwk,"Worldwake"
+
+"Temple Garden",794a2b79-8c55-4423-8843-7e6e96f84071,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Windswept Heath",7a7c5941-9c8a-4a40-9efb-a84f05c58e53,2002-10-07,ons,"Onslaught"
+
+"Wild Growth",fd896dfa-66c0-4327-8e5b-489bbe350c95,1993-08-05,lea,"Limited Edition Alpha"
+
+"Selesnya Signet",8296d86a-2c79-43c8-8a1c-1d4bb600bc6b,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Talisman of Unity",d6cc8a5a-b98b-4758-a168-bf2ef738fb05,2003-10-02,mrd,"Mirrodin"
+
+"Gaddock Teeg",32c16e1b-f4ce-409f-928a-42c666adac9d,2007-10-12,lrw,"Lorwyn"
+
+"Kitchen Finks",7d203208-8a21-4c68-afa2-4efd8726f026,2008-05-02,shm,"Shadowmoor"
+
+"Glare of Subdual",ed6166c1-3c2e-47af-873e-d3b39f42bd27,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Godless Shrine",be010c2f-06db-47e3-80bd-df3f2a21ca34,2006-02-03,gpt,"Guildpact"
+
+"Marsh Flats",45026d57-0324-4312-8b86-2e7d4f581ee9,2009-10-02,zen,"Zendikar"
+
+"Orzhov Basilica",f9154d2a-3fc5-4fd6-9885-a810cb6b542a,2006-02-03,gpt,"Guildpact"
+
+"Scrubland",bebe39d4-21fb-46a4-a1ec-b97102e46c15,1993-08-05,lea,"Limited Edition Alpha"
+
+"Shambling Vent",30a73816-1f33-4798-a9d6-5f0410d19625,2015-10-02,bfz,"Battle for Zendikar"
+
+"Silent Clearing",ac07e230-0297-4e1d-bdfe-119010e0ad8e,2019-06-14,mh1,"Modern Horizons"
+
+"Orzhov Signet",f9298a1d-5b41-46d8-929c-b6980d1e6eb7,2006-02-03,gpt,"Guildpact"
+
+"Talisman of Hierarchy",826f99c7-f534-4183-8f0d-efe1609808ac,2019-06-14,mh1,"Modern Horizons"
+
+"Lingering Souls",891a92d7-9ccf-4de1-8286-aa5254f27ba9,2012-02-03,dka,"Dark Ascension"
+
+"Vindicate",2a1bfefd-dae8-49e9-9d56-cc852e3dc93b,2001-06-04,apc,"Apocalypse"
+
+"Sorin, Lord of Innistrad",27bb371f-d49f-41bd-bbe0-d5e1e2067e36,2012-02-03,dka,"Dark Ascension"
+
+"Bayou",412ceddd-2b9a-4551-a6bf-ae2830a2010a,1993-08-05,lea,"Limited Edition Alpha"
+
+"Golgari Rot Farm",104364d5-ede8-4ac5-900f-19947f51bbc1,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Hissing Quagmire",6ef11b54-205a-48e9-92d0-5d416be869ef,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Nurturing Peatland",2744ac83-a79f-4042-8720-688b5adda382,2019-06-14,mh1,"Modern Horizons"
+
+"Overgrown Tomb",fce07335-cc78-4683-b2f0-9c98a06ea1d8,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Verdant Catacombs",7abd2723-2851-4f1a-b2d0-dfcb526472c3,2009-10-02,zen,"Zendikar"
+
+"Deathrite Shaman",70496f16-c4c0-4c03-beef-454eb4824cd1,2012-10-05,rtr,"Return to Ravnica"
+
+"Life // Death",7ab75cdb-93a1-4f78-b404-37566295c321,2001-06-04,apc,"Apocalypse"
+
+"Golgari Signet",be03b002-1a3e-4b21-bc23-7f5a9cedb74f,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Talisman of Resilience",cc25a254-edd2-4817-ab80-7373239da7d2,2019-06-14,mh1,"Modern Horizons"
+
+"Assassin's Trophy",906b6e99-128f-4c11-8daf-16099d35b0d4,2018-10-05,grn,"Guilds of Ravnica"
+
+"Pernicious Deed",ae4cbb33-4947-49f0-b612-a92141fbfaa6,2001-06-04,apc,"Apocalypse"
+
+"Breeding Pool",b98b2a35-ec2b-47fe-903d-dd292e469a3c,2006-05-05,dis,"Dissension"
+
+"Lumbering Falls",bc69700c-418f-4644-aa1e-3e81e2b81ab5,2015-10-02,pbfz,"Battle for Zendikar Promos"
+
+"Misty Rainforest",24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787,2009-10-02,zen,"Zendikar"
+
+"Simic Growth Chamber",407d0a0c-a6be-4bd5-8355-1715698c6bde,2006-05-05,dis,"Dissension"
+
+"Tropical Island",a9c6c759-aabf-44e7-ba8c-33c5df232b56,1993-08-05,lea,"Limited Edition Alpha"
+
+"Waterlogged Grove",0ab6bfbd-d2e1-4c4c-9f91-6f69c5b8e3bb,2019-06-14,mh1,"Modern Horizons"
+
+"Simic Signet",90107d10-e2aa-4cb7-a000-039f0c581b47,2006-05-05,dis,"Dissension"
+
+"Talisman of Curiosity",fd52688a-39fd-430f-b950-cb56e0004396,2019-06-14,mh1,"Modern Horizons"
+
+"Trygon Predator",f31f54bf-7bf0-48f0-853d-1468713784eb,2006-05-05,dis,"Dissension"
+
+"Mystic Snake",f098a28c-5f9b-4a2c-b109-c342365eb948,2001-06-04,apc,"Apocalypse"
+
+"Hydroid Krasis",801dd9c6-b159-4e1c-af2c-214c1f573633,2019-01-25,rna,"Ravnica Allegiance"
+
+"Fiery Islet",a3aab13c-9d9d-4507-ae5d-da979990ae1b,2019-06-14,mh1,"Modern Horizons"
+
+"Izzet Boilerworks",666f455e-3a3d-475d-b67a-a1fdd74820eb,2006-02-03,gpt,"Guildpact"
+
+"Scalding Tarn",327cf118-cc92-4073-85d0-94d2a0a6989a,2009-10-02,zen,"Zendikar"
+
+"Steam Vents",054f2276-2dd5-43da-bb26-c57c560861fe,2006-02-03,gpt,"Guildpact"
+
+"Volcanic Island",0324641d-af55-4c53-b4dc-c8262e967da5,1993-10-04,leb,"Limited Edition Beta"
+
+"Wandering Fumarole",dd0ee251-6c79-499b-8366-c281c989b061,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Izzet Signet",f823be95-bef4-4e86-a924-239be62394bf,2006-02-03,gpt,"Guildpact"
+
+"Talisman of Creativity",4d9dbadd-c1b6-44fe-92ac-6f69d7178342,2019-06-14,mh1,"Modern Horizons"
+
+"Fire // Ice",f98f4538-5b5b-475d-b98f-49d01dae6f04,2001-06-04,apc,"Apocalypse"
+
+"Saheeli, Sublime Artificer",5a10b543-d5d4-42a8-9ee8-dada59a2ad7e,2019-05-03,war,"War of the Spark"
+
+"Arid Mesa",16c8d2fa-54a7-46e8-980c-905258497c90,2009-10-02,zen,"Zendikar"
+
+"Boros Garrison",7dfe3f03-078f-44fb-89cd-efa3ebfaf637,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Needle Spires",3d73700c-fa62-42be-aaca-5f8a50af20db,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Plateau",6eafa00b-c628-40f6-86eb-88e1361fc7a0,1993-08-05,lea,"Limited Edition Alpha"
+
+"Sacred Foundry",168ef687-5797-4b45-b75b-393d8117cebd,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Sunbaked Canyon",c36820fa-ee86-4206-9a0d-737a67cf5208,2019-06-14,mh1,"Modern Horizons"
+
+"Figure of Destiny",0da69523-cece-425a-b08a-fb27fac29374,2008-07-25,eve,"Eventide"
+
+"Boros Signet",1bae1f86-4639-4424-b47b-fdc826bf6e97,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Talisman of Conviction",71148fd3-0c2c-459e-b8f5-735a0a8dd87f,2019-06-14,mh1,"Modern Horizons"
+
+"Boros Charm",d4ddf9cc-40a7-4b4f-bb51-b08171453c9a,2013-02-01,gtc,"Gatecrash"
+
+"Ajani Vengeant",8fc108a3-15e5-44ab-a6e2-182b309f9c0c,2008-10-03,ala,"Shards of Alara"
+
+"Iroas, God of Victory",cacf28cb-feea-4afb-b22e-1b8d50ee66c1,2014-05-02,jou,"Journey into Nyx"
+
+"Balefire Liege",0d302fbd-d43c-47ff-920d-559c5a9028ee,2008-07-25,eve,"Eventide"
+
+"Waves of Aggression",83d52ba7-ffb3-4c24-85d8-8635ef1880d9,2008-07-25,eve,"Eventide"
+
+"Broodmate Dragon",aea1360e-7c6b-400c-893a-82d93e53101e,2008-10-03,ala,"Shards of Alara"
+
+"Rafiq of the Many",249c188d-c11d-46f7-a2d8-a67df4ba401b,2008-10-03,ala,"Shards of Alara"
+
+"Cruel Ultimatum",0d267804-23de-4521-ae64-4dd5cd836c6c,2008-10-03,ala,"Shards of Alara"
+
+"Nicol Bolas, Planeswalker",48ee3939-bc12-4275-a446-9de36f0b4672,2009-02-06,con,"Conflux"
+
+"Mantis Rider",82d5ce46-7118-4ede-ba1d-c387e7ce16e7,2014-09-26,ktk,"Khans of Tarkir"
+
+"Alesha, Who Smiles at Death",09ac9669-d0ee-4df8-af77-12dfccac774f,2015-01-23,frf,"Fate Reforged"
+
+"Leovold, Emissary of Trest",49bb0ad3-1082-41f1-82a4-52a4006cc9b6,2016-08-26,cn2,"Conspiracy: Take the Crown"
+
+"City of Brass",f4e32327-380d-471e-813b-4c27477787ce,1993-12-17,arn,"Arabian Nights"
+
+"Evolving Wilds",bc7e0407-fea1-43ef-8580-82271e440bb3,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Mana Confluence",504a69eb-3c2d-4bb1-b117-252b15acf0c2,2014-05-02,jou,"Journey into Nyx"
+
+"Prismatic Vista",e37da81e-be12-45a2-9128-376f1ad7b3e8,2019-06-14,mh1,"Modern Horizons"
+
+"Reflecting Pool",7b633ac2-bf98-42bd-8c26-8737a7d8edc7,1997-10-14,tmp,"Tempest"
+
+"Terramorphic Expanse",fd097ea2-0a1c-44a0-824b-d5373df513fb,2006-10-06,tsp,"Time Spiral"
+
+"Progenitus",bcc764b0-3046-4bde-b424-c0f4e1a6169b,2009-02-06,con,"Conflux"
+
+"Black Lotus",b0faa7f2-b547-42c4-a810-839da50dadfe,1993-08-05,lea,"Limited Edition Alpha"
+
+"Chrome Mox",6a058e68-70af-4a64-859c-c881e5578368,2003-10-02,mrd,"Mirrodin"
+
+"Everflowing Chalice",1fdcc0c3-4029-4fc3-a486-5d7f45c910bd,2010-02-05,wwk,"Worldwake"
+
+"Mana Crypt",160cf235-6463-4e16-a426-8b5be76b10d2,1995-04-01,phpr,"HarperPrism Book Promos"
+
+"Mox Diamond",28028830-83ed-45e2-b495-3b9ad9d3e988,1998-03-02,sth,"Stronghold"
+
+"Mox Emerald",b0e1427c-05cd-465b-be59-97ed6e39f7ba,1993-08-05,lea,"Limited Edition Alpha"
+
+"Mox Jet",92bcd1ce-19b1-4d78-8b09-95242ca08d76,1993-08-05,lea,"Limited Edition Alpha"
+
+"Mox Pearl",8ebe4be7-e12a-4596-a899-fbd5b152e879,1993-08-05,lea,"Limited Edition Alpha"
+
+"Mox Ruby",8945585f-4773-493d-a0fe-d707db910b38,1993-08-05,lea,"Limited Edition Alpha"
+
+"Mox Sapphire",82da0972-b17b-4600-9efd-e9430a0db04b,1993-08-05,lea,"Limited Edition Alpha"
+
+"Bonesplitter",465a7990-c9f9-4716-a833-fd41458b9cee,2003-10-02,mrd,"Mirrodin"
+
+"Mana Vault",19499cb7-eccb-4e69-af32-6002d447a160,1993-08-05,lea,"Limited Edition Alpha"
+
+"Manifold Key",715e637a-dfd8-45a0-b1ea-53e4abd29307,2019-07-12,m20,"Core Set 2020"
+
+"Pithing Needle",78eb9e1d-113e-45ff-8435-32ee42fa5631,2005-06-03,sok,"Saviors of Kamigawa"
+
+"Sensei's Divining Top",4a08ca06-58db-4ce6-b490-be4bea8956a1,2004-10-01,chk,"Champions of Kamigawa"
+
+"Skullclamp",55318397-de3c-47ea-a088-72a24df5c8fa,2004-02-06,dst,"Darksteel"
+
+"Sol Ring",c4300d24-1cae-4dd5-be7e-38cc677cf5bd,1993-08-05,lea,"Limited Edition Alpha"
+
+"Chaos Orb",92274971-7c4a-4326-b0fe-75e2d124f718,1993-08-05,lea,"Limited Edition Alpha"
+
+"Grim Monolith",9ddc9fe1-17c8-4e1d-aeb8-c4214e881280,1999-02-15,ulg,"Urza's Legacy"
+
+"Lightning Greaves",61a28870-cf78-4323-9d82-cee764067764,2003-10-02,mrd,"Mirrodin"
+
+"Mind Stone",162e81d3-6cd4-4cb8-8ed8-cfbd8d34ca71,1997-06-09,wth,"Weatherlight"
+
+"Renata, Called to the Hunt",2b27e6b2-13ad-42b2-a121-70935913723d,2020-01-24,thb,"Theros Beyond Death"
+
+"Smuggler's Copter",7832abb5-5107-4603-904e-491b221bd3e3,2016-09-30,kld,"Kaladesh"
+
+"Sorcerous Spyglass",85506a24-8d60-475c-9f43-65994caca7d4,2017-09-29,xln,"Ixalan"
+
+"Umezawa's Jitte",3b6e5956-f795-451b-bb24-56462d1ced27,2005-02-04,bok,"Betrayers of Kamigawa"
+
+"Basalt Monolith",66a74c89-6f86-4ec8-af17-391cd5026054,1993-08-05,lea,"Limited Edition Alpha"
+
+"Crucible of Worlds",312a6058-de08-487d-95bd-b3c56807fdd6,2004-06-04,5dn,"Fifth Dawn"
+
+"Grafted Wargear",5269cfbd-1202-47fe-a12d-d95ff304b335,2004-06-04,5dn,"Fifth Dawn"
+
+"Loxodon Warhammer",a1a6e375-5c47-4447-9453-adf0038693e3,2003-10-02,mrd,"Mirrodin"
+
+"Sword of Dungeons & Dragons",9e5180da-d757-415c-b92d-090ad5c1b658,2017-09-20,h17,"HasCon 2017"
+
+"Oblivion Stone",ddba1566-2778-4636-b4d3-9095fb2d83c8,2003-10-02,mrd,"Mirrodin"
+
+"Scroll of Fate",a25ffab0-1119-4eca-9abe-077a699f19d0,2019-08-23,c19,"Commander 2019"
+
+"Sword of Feast and Famine",580b4818-2a01-46ad-b4d9-7d895a625bb3,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Sword of Fire and Ice",8eb613ee-8b8b-4a34-886c-6592b27672b3,2004-02-06,dst,"Darksteel"
+
+"Sword of Light and Shadow",61d08a91-665e-458c-9b8f-4ebd5f54a0d6,2004-02-06,dst,"Darksteel"
+
+"Sword of Truth and Justice",2be8d24e-1370-4e85-90f2-66b6d6e9c4a4,2019-06-14,mh1,"Modern Horizons"
+
+"Worn Powerstone",2224d7ef-2e2f-47dd-a4a0-e36b3170b124,1998-10-12,usg,"Urza's Saga"
+
+"Epochrasite",7971f6a6-c26c-4f8f-8de7-afc40563967d,2007-05-04,fut,"Future Sight"
+
+"Icy Manipulator",29dc1596-a2e7-4d60-9f99-89babaef8a06,1993-08-05,lea,"Limited Edition Alpha"
+
+"Nevinyrral's Disk",12926dc8-8e6f-4a47-a12b-4d674189615a,1993-08-05,lea,"Limited Edition Alpha"
+
+"Panharmonicon",15856326-d943-476a-9d31-898b9f990bb6,2016-09-30,kld,"Kaladesh"
+
+"Skysovereign, Consul Flagship",1df70ef3-8919-43ac-9317-23548437a181,2016-09-30,kld,"Kaladesh"
+
+"Smokestack",6a37ab2d-094f-431e-878f-93aef0360413,1998-10-12,usg,"Urza's Saga"
+
+"Thran Dynamo",3f0c9dee-fab5-4522-9821-343f84b0c8ab,1999-06-07,uds,"Urza's Destiny"
+
+"Batterskull",cd114ec3-d286-4c70-a122-3043bc53cc88,2011-05-13,nph,"New Phyrexia"
+
+"Conjurer's Closet",7378e998-0382-42fc-8606-c6e7fc04b6a4,2012-05-04,avr,"Avacyn Restored"
+
+"Memory Jar",a15d33d6-7213-4482-a1be-ac0a73644af6,1999-02-15,ulg,"Urza's Legacy"
+
+"Signal Pest",be065962-f2ed-4ab9-be6b-bfc66d63ff4e,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Lore Seeker",9b8c78c8-b3fa-4a67-bf6c-cf708dedf42e,2014-06-06,cns,"Conspiracy"
+
+"Phyrexian Revoker",7c7bec21-61b0-4e72-848b-82f38e1910e0,2011-02-04,mbs,"Mirrodin Besieged"
+
+"Canal Dredger",a5365f0d-5e51-4e5d-9385-c4d08882c24f,2014-06-06,cns,"Conspiracy"
+
+"Cogwork Librarian",453de664-0f09-4772-a626-51d58d1173f3,2014-06-06,cns,"Conspiracy"
+
+"Cogwork Librarian",453de664-0f09-4772-a626-51d58d1173f3,2014-06-06,cns,"Conspiracy"
+
+"Precursor Golem",1c4625ad-1c83-4095-a5a2-0fc9fa4dd5f2,2010-10-01,som,"Scars of Mirrodin"
+
+"Steel Hellkite",b126ee24-9597-4ee8-9c4d-5caed585424a,2010-10-01,som,"Scars of Mirrodin"
+
+"Wurmcoil Engine",33672990-4860-4aa6-ac1b-f9da66f5da59,2010-10-01,som,"Scars of Mirrodin"
+
+"Myr Battlesphere",b0ae94ed-7314-470b-baba-f2f58bbc894a,2010-10-01,som,"Scars of Mirrodin"
+
+"Sundering Titan",3e4bd552-e629-41a4-868f-d656187317b7,2004-02-06,dst,"Darksteel"
+
+"Kozilek, Butcher of Truth",067fac91-2483-4678-b86a-2c54a3a480cf,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Walking Ballista",329a8738-3e17-403a-857a-0ba529ce8cd1,2017-01-20,aer,"Aether Revolt"
+
+"Ancient Tomb",30e401e3-282b-4524-87e1-c6cd50cd6d00,1997-10-14,tmp,"Tempest"
+
+"Blinkmoth Nexus",bf51c665-7823-4d6a-b1da-8c2d93dae10b,2004-02-06,dst,"Darksteel"
+
+"Ghost Quarter",893eb7e4-5d8d-477b-aaa7-fb85ef2a54fc,2006-05-05,dis,"Dissension"
+
+"Library of Alexandria",ee266113-34ce-4189-84e7-ee2c86a2722c,1993-12-17,arn,"Arabian Nights"
+
+"Mishra's Factory",4047df9c-335c-4c1a-968d-00f40e2e7386,1994-03-04,atq,"Antiquities"
+
+"Mutavault",8ca3c48b-f104-4292-9a4e-2ce87a65893c,2008-02-01,mor,"Morningtide"
+
+"Rishadan Port",477a1f53-5cdf-4b45-b584-2e36b31a3fdb,1999-10-04,mmq,"Mercadian Masques"
+
+"Strip Mine",917e98db-a0c4-4836-9e4b-3fda142eedf6,1994-03-04,atq,"Antiquities"
+
+"Gitaxian Probe",995486ce-58bb-4753-a812-0ca73ef1a235,2011-05-13,nph,"New Phyrexia"
+
+"All Is Dust",62dba377-7446-4517-a504-ee04568fd6cf,2010-04-23,roe,"Rise of the Eldrazi"
+
+"Embereth Shieldbreaker // Battle Display",13b553f1-8107-42a8-841a-91adf71cff72,2019-10-04,eld,"Throne of Eldraine"
+
+"Fabled Passage",57645743-27fa-4a75-9511-acfc32dd349a,2019-10-04,eld,"Throne of Eldraine"
+
+"Murderous Rider // Swift End",49c98e70-e8fe-4fea-b1d0-e7560780fda9,2019-10-04,eld,"Throne of Eldraine"
+
+"Questing Beast",5357e802-2d25-48d3-a188-101c142787b7,2019-10-04,eld,"Throne of Eldraine"
+
+"Rankle, Master of Pranks",93c2c11d-dfc3-4ba9-8c0f-a98114090396,2019-10-04,eld,"Throne of Eldraine"
+
+"Robber of the Rich",0ecbe097-ba51-42e5-957c-382eb66c08f0,2019-10-04,eld,"Throne of Eldraine"
+
+"Venerable Knight",0001f1ef-b957-4a55-b47f-14839cdbab6f,2019-10-04,eld,"Throne of Eldraine"
+
+"Brazen Borrower // Petty Theft",c2089ec9-0665-448f-bfe9-d181de127814,2019-10-04,eld,"Throne of Eldraine"
+
+"Retrofitter Foundry",5da578b8-19e6-4068-9336-e7cd33c585f1,2018-08-09,c18,"Commander 2018"
+
+"Ranger-Captain of Eos",af3928b4-813a-4120-8799-de34235d60ac,2019-06-14,mh1,"Modern Horizons"
+
+"Lolth, Spider Queen",420a5689-d73e-4dda-82fd-8b8897ff5b55,2021-07-23,afr,"Adventures in the Forgotten Realms"
+
+"Gilded Goose",30377bf0-d9b1-4c14-8dde-f74b1e02d604,2019-10-04,eld,"Throne of Eldraine"
+
+"Arboreal Grazer",c4a5f86f-44a8-4735-909a-770586d33a15,2019-05-03,war,"War of the Spark"
+
+"Heartbeat of Spring",6be3ba05-dce0-463b-bfe6-d51df63cc1a8,2004-10-01,chk,"Champions of Kamigawa"
+
+"Bonecrusher Giant // Stomp",09fd2d9c-1793-4beb-a3fb-7a869f660cd4,2019-10-04,eld,"Throne of Eldraine"
+
+"Beast Whisperer",9da6f595-41b2-4e52-b15a-6ad18e4232c7,2018-10-05,grn,"Guilds of Ravnica"
+
+"Pyrite Spellbomb",97b9bab9-12ee-4da5-9d53-d0b82d9279cd,2003-10-02,mrd,"Mirrodin"
+
+"Defiler of Vigor",0896860c-d028-4193-89a5-97e05c12a1e7,2022-09-09,dmu,"Dominaria United"
+
+"Dryad of the Ilysian Grove",36adefc7-44a8-40d0-8bdf-ad12d010b0bd,2020-01-24,thb,"Theros Beyond Death"
+
+"Prowling Serpopard",92921fc1-11d0-41a9-b9b2-b44fd0913d31,2017-04-28,akh,"Amonkhet"
+
+"Gemrazer",0095245c-a30e-4e2a-88c9-632c678e9f03,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Kogla, the Titan Ape",3c35ca79-eb72-427a-a8ed-404b2214389a,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Shark Typhoon",1da4d4f3-b3cb-4b61-81b8-06ae441c41bf,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Indatha Triome",2b74bb81-fb9a-40e5-a941-e517430b52f5,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Raugrin Triome",02138fbb-3962-4348-8d31-faaefba0b8b2,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Zagoth Triome",cc520518-2063-4b57-a0d4-10cf62a7175e,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Savai Triome",748e6a61-9c1f-4225-9f04-e54002f63ac3,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Ketria Triome",a249b1f4-2b22-4b67-a207-e0c4ae95d2e1,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Heartless Act",928b0234-fc62-4ab8-b257-3fddcc52376b,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Luminous Broodmoth",0535c823-f6e9-4a2f-8adf-f69b6f0fea1f,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Lurrus of the Dream-Den",2c89beb2-3467-4be0-a066-919f54331942,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Fiend Artisan",653e706a-5506-4efd-a86b-2a25bb66a2ae,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Once Upon a Time",4034e5ba-9974-43e3-bde7-8d9b4586c3a4,2019-10-04,eld,"Throne of Eldraine"
+
+"Goldspan Dragon",9d914868-9000-4df2-a818-0ef8a7f636ae,2021-02-05,khm,"Kaldheim"
+
+"Release the Dogs",7df3cd89-02c9-4a1c-9a8a-d17a0b1030c9,2020-07-17,jmp,"Jumpstart"
+
+"Roil Eruption",560c02ec-f21e-405b-8267-7f7ff089904a,2020-09-25,znr,"Zendikar Rising"
+
+"Woe Strider",05500b14-d36d-49b3-82b0-d0c533d4ec00,2020-01-24,thb,"Theros Beyond Death"
+
+"Noxious Gearhulk",9f86e5fe-8723-4494-b4cc-b7ac3a047bd1,2016-09-30,kld,"Kaladesh"
+
+"Skyclave Shade",05347539-de61-4a37-929f-c909e65033f5,2020-09-25,znr,"Zendikar Rising"
+
+"Flesh Carver",cf0f88d9-681c-4152-bb45-628850717430,2014-11-07,c14,"Commander 2014"
+
+"The Great Henge",af915ed2-1f34-43f6-85f5-2430325b720f,2019-10-04,eld,"Throne of Eldraine"
+
+"Vault Skirge",f254239c-c07a-4c41-98f7-8f4de539c73e,2011-05-13,nph,"New Phyrexia"
+
+"Nissa, Who Shakes the World",25d63632-c019-4f34-926a-42f829a4665c,2019-05-03,war,"War of the Spark"
+
+"Magmatic Channeler",711c3023-1429-4aa1-b822-85ab1badf086,2020-09-25,znr,"Zendikar Rising"
+
+"Frontier Explorer",14e3a0a1-8c27-461d-bc7f-24f5c0a544c2,2019-11-07,cmb1,"Mystery Booster Playtest Cards 2019"
+
+"Hallowed Fountain",c28aea19-2a39-4934-afda-909e234fa3ba,2006-05-05,dis,"Dissension"
+
+"Watery Grave",139b90cd-8272-457a-be32-1298145345be,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Blood Crypt",f281e16f-0fe1-4095-bd63-0a4479f75c11,2006-05-05,dis,"Dissension"
+
+"Stomping Ground",a2773d8f-f906-475d-aaff-b7ca3b01f188,2006-02-03,gpt,"Guildpact"
+
+"Cityscape Leveler",35d2bcd1-3ed3-4b99-9bb6-d0fa0a9f2ea1,2022-11-18,bro,"The Brothers' War"
+
+"Mathas, Fiend Seeker",a5fc5dfc-ee07-4fd6-8d5d-55099752254a,2017-08-25,c17,"Commander 2017"
+
+"Horizon Canopy",d5dfc25d-a17b-4ead-9484-e8a18b8fa176,2007-05-04,fut,"Future Sight"
+
+"Kroxa, Titan of Death's Hunger",050ff430-2ad8-46d0-bfdc-cc7323b87101,2020-01-24,thb,"Theros Beyond Death"
+
+"Falkenrath Aristocrat",c397388e-ebe2-4034-83b7-a7c0df1af78f,2012-02-03,dka,"Dark Ascension"
+
+"Find // Finality",1e4e9e35-6cbc-4997-beff-d1a22d87545e,2018-10-05,grn,"Guilds of Ravnica"
+
+"Izzet Charm",1e3a5af6-5423-442b-a207-364e97a871d8,2012-10-05,rtr,"Return to Ravnica"
+
+"Zirda, the Dawnwaker",1bd8e61c-2ee8-4243-a848-7008810db8a0,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Murderous Redcap",5f7171f0-7d42-47c9-ab46-93c2bb42c914,2008-05-02,shm,"Shadowmoor"
+
+"Ant Queen",6ee46d8b-559e-4c33-99fb-b55f00aeee72,2009-07-17,m10,"Magic 2010"
+
+"Dance of the Dead",e7c53ba4-9956-4cd6-85ca-2d6b61a5127c,1995-06-03,ice,"Ice Age"
+
+"Qasali Pridemage",75256550-bbe0-499d-909e-af10691749c2,2009-04-30,arb,"Alara Reborn"
+
+"Skyclave Apparition",b83cfbaa-7890-4f6f-878b-4edb45677371,2020-09-25,znr,"Zendikar Rising"
+
+"Embercleave",939b8bcc-b9ac-4d8c-9db4-2bf91a853f03,2019-10-04,eld,"Throne of Eldraine"
+
+"Bloodforged Battle-Axe",b7f22249-579f-433d-9422-29d4e82ddc49,2017-08-25,c17,"Commander 2017"
+
+"Shadowspear",131cb967-9569-4fbf-8143-c410d3a94538,2020-01-24,thb,"Theros Beyond Death"
+
+"Forgotten Ancient",49d3b91d-2e4f-4574-89f8-7b804f1d21bf,2003-05-26,scg,"Scourge"
+
+"Barrin, Tolarian Archmage",cb078fbb-beb9-4c0b-be93-ed1e73e6f8d8,2020-07-03,m21,"Core Set 2021"
+
+"Riftwing Cloudskate",78ad6c86-8cfb-4f24-b8e8-ecbeffc949b8,2006-10-06,tsp,"Time Spiral"
+
+"Thassa, Deep-Dwelling",27b52628-de05-4ec1-9978-e998cf17bb26,2020-01-24,thb,"Theros Beyond Death"
+
+"Academy Ruins",af09af65-0a3b-42df-b0fd-372e2158beac,2006-10-06,tsp,"Time Spiral"
+
+"Sword of Sinew and Steel",c081e5cf-81e2-4afb-a912-8267de29e88d,2019-06-14,mh1,"Modern Horizons"
+
+"Adarkar Wastes",09dd9023-f7ee-4e99-8821-7059deb83730,1995-06-03,ice,"Ice Age"
+
+"Underground River",92369d7e-5e5a-46f9-bb31-c57d62410283,1995-06-03,ice,"Ice Age"
+
+"Sulfurous Springs",2fdeab50-b45f-412b-85a3-c6cf009ce567,1995-06-03,ice,"Ice Age"
+
+"Karplusan Forest",ba6f1263-d598-49fb-b5f8-09f11822ebd0,1995-06-03,ice,"Ice Age"
+
+"Brushland",170e5ccd-54bf-4c6d-86b4-0359ca8f36e8,1995-06-03,ice,"Ice Age"
+
+"Caves of Koilos",144dd08e-451e-4438-b572-7a138e1a15f3,2001-06-04,apc,"Apocalypse"
+
+"Shivan Reef",c3403143-2b4e-4408-b138-c856bbc1e9a5,2001-06-04,apc,"Apocalypse"
+
+"Llanowar Wastes",610b7cd5-5532-45a9-acfe-24a818034d1c,2001-06-04,apc,"Apocalypse"
+
+"Battlefield Forge",a9c25e71-0140-48fe-8b9e-33b4b50c5c12,2001-06-04,apc,"Apocalypse"
+
+"Yavimaya Coast",177ee102-d981-4fc3-9f09-9dd07755f22c,2001-06-04,apc,"Apocalypse"
+
+"Glacial Fortress",ee834e27-595d-4d12-8e69-e94e84ef337a,2009-07-17,m10,"Magic 2010"
+
+"Drowned Catacomb",bdc6e950-38dd-46da-a1c3-58dc7495a9f9,2009-07-17,m10,"Magic 2010"
+
+"Dragonskull Summit",2d4998db-13c0-412f-b02c-9f041cc45c7e,2009-07-17,m10,"Magic 2010"
+
+"Rootbound Crag",5433b11b-efe9-4d94-8f71-6bf7c403494d,2009-07-17,m10,"Magic 2010"
+
+"Sunpetal Grove",9f4e8ead-8c82-4258-bc59-551f7a74e042,2009-07-17,m10,"Magic 2010"
+
+"Isolated Chapel",b3c1a371-5ded-4a3a-bf96-503c4f1a665d,2011-09-30,isd,"Innistrad"
+
+"Sulfur Falls",4968b65d-50e5-4d7e-b78b-cdada1cbf7a7,2011-09-30,isd,"Innistrad"
+
+"Woodland Cemetery",67139101-ec5e-434b-be3a-21338cc33840,2011-09-30,isd,"Innistrad"
+
+"Clifftop Retreat",fd7e1bf9-bd6a-48e3-9331-178e5142c06a,2011-09-30,isd,"Innistrad"
+
+"Hinterland Harbor",72f15306-56fe-4643-bb4c-4c7c12378d01,2011-09-30,isd,"Innistrad"
+
+"Mystic Gate",3dfa866b-93e2-4365-91b0-f12d1f7c5395,2008-05-02,shm,"Shadowmoor"
+
+"Sunken Ruins",9d91a31c-b70a-45bd-a8dd-48d49b277f24,2008-05-02,shm,"Shadowmoor"
+
+"Graven Cairns",81e7d329-ef6a-45f3-82b6-37a3606c00bc,2007-05-04,fut,"Future Sight"
+
+"Fire-Lit Thicket",0ab9d6ad-f819-4a1e-b4ff-8dc00791f0fd,2008-05-02,shm,"Shadowmoor"
+
+"Wooded Bastion",7e088fe6-e47a-4e27-b07e-ec35db045359,2008-05-02,shm,"Shadowmoor"
+
+"Fetid Heath",0fbb9790-3744-4dcb-881a-452573298822,2008-07-25,eve,"Eventide"
+
+"Cascade Bluffs",c3eede44-270a-481d-850b-b4862b9685ea,2008-07-25,eve,"Eventide"
+
+"Twilight Mire",ff619a09-4fe5-4341-9077-88a0a9f4fbf9,2008-07-25,eve,"Eventide"
+
+"Rugged Prairie",e31f8b2a-acf4-423c-bc99-8cf44f3c018a,2008-07-25,eve,"Eventide"
+
+"Flooded Grove",4e45d16b-8320-4a9b-ad15-9687dfb52bed,2008-07-25,eve,"Eventide"
+
+"Triumph of the Hordes",c16b90ff-d256-4ac6-b687-3430b8c80dd7,2011-05-13,nph,"New Phyrexia"
+
+"Doomskar",130ee895-1e5e-4f82-bb66-e1275bac75dd,2021-02-05,khm,"Kaldheim"
+
+"Usher of the Fallen",24e58478-c6a8-4f86-854a-a489c99bd777,2021-02-05,khm,"Kaldheim"
+
+"Icefall Regent",2cbbd377-4617-4285-b367-98418a588dab,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Worldspine Wurm",543d55cb-3a6b-4620-af25-10ae74ed32c4,2012-10-05,rtr,"Return to Ravnica"
+
+"Anax, Hardened in the Forge",a07285b4-77c5-4a38-8810-20d7e49593ec,2020-01-24,thb,"Theros Beyond Death"
+
+"Doubling Season",c7e71299-98f6-494e-b187-8d22ce5f50af,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Laelia, the Blade Reforged",00760b58-8a7d-44fa-a5e7-9df54c21c77d,2021-04-23,c21,"Commander 2021"
+
+"Baleful Mastery",35f1a6ba-e46f-44fb-93f4-fb883d677b36,2021-04-23,stx,"Strixhaven: School of Mages"
+
+"Sedgemoor Witch",075bfaa8-3d54-4934-aaf6-72be43a87324,2021-04-23,stx,"Strixhaven: School of Mages"
+
+"Elite Spellbinder",25608957-fe71-4ed7-9c55-fb7f2fcf103e,2021-04-23,stx,"Strixhaven: School of Mages"
+
+"Jhoira of the Ghitu",1f437128-3a87-4958-97d0-3940d8761cba,2007-05-04,fut,"Future Sight"
+
+"Pest Infestation",4720b4f2-e6af-4223-9250-a0ed21ed5693,2021-04-23,c21,"Commander 2021"
+
+"Callous Bloodmage",81358736-65cf-44d8-819e-d0268d14cc76,2021-04-23,stx,"Strixhaven: School of Mages"
+
+"Platinum Angel",59bb5aee-b334-4c24-875b-56751d4add02,2003-10-02,mrd,"Mirrodin"
+
+"Profane Command",752bf7fd-c49e-42fa-bbdd-8ca5d4c89b2b,2007-10-12,lrw,"Lorwyn"
+
+"Putrid Imp",1b9e6c5c-4bc4-4f41-8c2c-f5b8c97c53c5,2002-02-04,tor,"Torment"
+
+"Grief",e6befbc4-1320-4f26-bd9f-b1814fedda10,2021-06-18,mh2,"Modern Horizons 2"
+
+"Archon of Cruelty",1be9d9a4-d7ee-4854-abc2-85cabf993ec9,2021-06-18,mh2,"Modern Horizons 2"
+
+"Damn",23b95b26-0bbf-4fa1-80c1-f621f1a1b947,2021-06-18,mh2,"Modern Horizons 2"
+
+"Gravecrawler",48d73cb5-22ac-43df-9c4b-0c860bb80b3e,2012-02-03,dka,"Dark Ascension"
+
+"Corpse Dance",76ae81ea-13e3-4ab8-b956-4c7b139a5e9c,1997-10-14,tmp,"Tempest"
+
+"Persist",90f390c3-af1c-424f-9721-e26e9321e5a3,2021-06-18,mh2,"Modern Horizons 2"
+
+"Stonehewer Giant",363c51c5-b0fc-4c84-b3d6-8cc17c2387a4,2008-02-01,mor,"Morningtide"
+
+"Solitude",47a6234f-309f-4e03-9263-66da48b57153,2021-06-18,mh2,"Modern Horizons 2"
+
+"Maul of the Skyclaves",f18f2608-0d44-442c-97a1-12ac94b7abac,2020-09-25,znr,"Zendikar Rising"
+
+"Ephemerate",2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa,2019-06-14,mh1,"Modern Horizons"
+
+"Conclave Tribunal",9d9fda5d-df8f-45d6-b8f0-33f903c4bf83,2018-10-05,grn,"Guilds of Ravnica"
+
+"Pacifism",c891df1b-bae6-4d6d-85ee-42901c149f98,1996-10-08,mir,"Mirage"
+
+"Ragavan, Nimble Pilferer",a9738cda-adb1-47fb-9f4c-ecd930228c4d,2021-06-18,mh2,"Modern Horizons 2"
+
+"Fury",071daca8-ccc6-4707-843e-adac40dd1588,2021-06-18,mh2,"Modern Horizons 2"
+
+"Goblin Bombardment",179e954f-1d90-4ef4-b800-25845cc338e2,1997-10-14,tmp,"Tempest"
+
+"Rampaging Raptor",064003f8-4811-4fa3-b5b0-f6dc9032d73b,2023-04-21,pmom,"March of the Machine Promos"
+
+"Mana Flare",7fb99a26-beeb-4aca-bb02-b2d2ce0595f9,1993-08-05,lea,"Limited Edition Alpha"
+
+"Esika's Chariot",57a7d7e5-428d-4f42-8f13-9908fc65dcb4,2021-02-05,khm,"Kaldheim"
+
+"Voracious Hydra",74bbe44f-864a-446c-bfc9-5f5188e663b8,2019-07-12,m20,"Core Set 2020"
+
+"Ignoble Hierarch",3139cce8-3467-4c50-add2-5b78fb33b90a,2021-06-18,mh2,"Modern Horizons 2"
+
+"Krosan Tusker",0b872f85-60c5-44c4-956d-a8aa8132908b,2002-10-07,ons,"Onslaught"
+
+"Nissa, Voice of Zendikar",a600b97b-1851-4b1b-a2af-f80e0307c02c,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Troll Ascetic",f01233c2-6df0-4f0e-8668-3855868731ea,2003-10-02,mrd,"Mirrodin"
+
+"Starscream, Power Hungry // Starscream, Seeker Leader",8234ea77-9ed6-4f3e-acc2-f52fb7003ed2,2022-11-18,bot,"Transformers"
+
+"Stillmoon Cavalier",400dc91e-96c0-49bf-b307-677d6f80f3ed,2008-07-25,eve,"Eventide"
+
+"Goblin Electromancer",79fb620f-4057-4f60-94b9-56ab855be974,2012-10-05,rtr,"Return to Ravnica"
+
+"Reforge the Soul",36506caa-2630-46ec-9aa0-e1885749ad90,2012-05-04,avr,"Avacyn Restored"
+
+"Sprout Swarm",0b915355-4e98-44df-81bd-961a3d3c86b8,2007-05-04,fut,"Future Sight"
+
+"Akroma's Memorial",d2cb3bdf-dff5-4285-ad67-ae7ca84c9fbc,2007-05-04,fut,"Future Sight"
+
+"Kaldra Compleat",87cc2855-6b14-44dd-a398-7dc2bbae081f,2021-06-18,mh2,"Modern Horizons 2"
+
+"Lotus Cobra",19adde22-e5eb-4815-beb6-c520b3274cc9,2009-10-02,zen,"Zendikar"
+
+"Unburial Rites",2794c82b-e5ce-4369-894e-bf56c6402ae1,2011-09-30,isd,"Innistrad"
+
+"Unexpectedly Absent",6dff437b-ef68-48f7-afd3-3b72d3c56187,2013-11-01,c13,"Commander 2013"
+
+"Spear of Heliod",34ef01da-d311-4d4f-9f7b-328e7bb17db4,2013-09-27,ths,"Theros"
+
+"Hogaak, Arisen Necropolis",0049e68d-0caf-474f-9523-dad343f1250a,2019-06-14,mh1,"Modern Horizons"
+
+"Hostage Taker",e8dc67a0-05d9-463e-9794-30a7e951c240,2017-09-29,xln,"Ixalan"
+
+"Eerie Interlude",dcbab6e4-d317-4e73-a6ff-bed49aa6b70b,2016-04-08,soi,"Shadows over Innistrad"
+
+"Invasion of Ikoria // Zilortha, Apex of Ikoria",5d59c8f2-f6af-40a6-8dfe-8cc45bf231ce,2023-04-21,mom,"March of the Machine"
+
+"Ledger Shredder",31b1bf08-aba1-4197-8afe-05c1fc783307,2022-04-29,snc,"Streets of New Capenna"
+
+"Repeal",9e7dd929-4bba-46a6-86c9-b8ed853eb721,2006-02-03,gpt,"Guildpact"
+
+"Noxious Revival",1bdd1243-1d14-496a-9b7a-0c5b34461361,2011-05-13,nph,"New Phyrexia"
+
+"Channel",c1862c47-71cc-45a3-8805-a5ddc62e55ea,1993-08-05,lea,"Limited Edition Alpha"
+
+"Moldervine Cloak",871c3f80-aaa7-485f-b519-57363f5905dd,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Wall of Blossoms",7eb4a1a3-efcf-4c9a-ad1f-0a3f8f2b456f,1998-03-02,sth,"Stronghold"
+
+"Faerie Mastermind",52d3005f-a1c7-4ef5-911f-ccc0752f4181,2023-04-21,mom,"March of the Machine"
+
+"Dack Fayden",3fcb7810-1054-4001-855c-6e17939b3d3f,2014-06-06,cns,"Conspiracy"
+
+"Dark Ritual",ebb6664d-23ca-456e-9916-afcd6f26aa7f,1993-08-05,lea,"Limited Edition Alpha"
+
+"Thought Scour",88bf1ebb-9d85-4b9b-a614-c7f965c0893d,2012-02-03,dka,"Dark Ascension"
+
+"Emry, Lurker of the Loch",157f343d-8583-4827-a77d-d916e6a5caa1,2019-10-04,eld,"Throne of Eldraine"
+
+"Inquisitor Greyfax",1956cebe-bb71-45cc-b4ff-72ee3bb95c81,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"You See a Pair of Goblins",b69e7200-96ea-4455-83cc-0a497d56efe5,2021-07-23,afr,"Adventures in the Forgotten Realms"
+
+"Keruga, the Macrosage",1206f4fc-6ebf-4205-90d3-1cb3a9caaa82,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Exclude",aeb359c8-209c-455f-84b2-970e5678a9fa,2000-10-02,inv,"Invasion"
+
+"Unmask",2db7a0e6-eea5-4fa6-ac14-401411b106cc,1999-10-04,mmq,"Mercadian Masques"
+
+"Knight of the White Orchid",642c6354-4dab-45c9-a1a6-57bd16f16e30,2008-10-03,ala,"Shards of Alara"
+
+"Power Word Kill",395b6ce4-143f-4eed-b565-98aa3d6208ef,2021-07-23,afr,"Adventures in the Forgotten Realms"
+
+"Darksteel Colossus",cbc27b24-f085-48b0-8757-cd11fbf25b91,2004-02-06,dst,"Darksteel"
+
+"Archaeomancer",73c6d1be-55ad-4ee4-b044-88438e9b78cc,2012-07-13,m13,"Magic 2013"
+
+"Emissary of Grudges",b8d3d78d-a18b-4ed2-a076-9893fbba94bc,2018-08-09,c18,"Commander 2018"
+
+"Triumph of Saint Katherine",5eb88b0e-2582-4393-958e-490c07bde8ac,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Syr Konrad, the Grim",a808868f-aea8-4651-9357-85a4d7b4f290,2019-10-04,eld,"Throne of Eldraine"
+
+"Kalitas, Traitor of Ghet",17a278d0-f601-4d57-bc3d-2972f8602a69,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Falkenrath Pit Fighter",a743a3b6-3278-4644-a2d5-acf495c273ed,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Fateful Absence",25bf1ab2-4d6b-4e81-b537-82889aab767d,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Adeline, Resplendent Cathar",18092f68-b96e-4084-9eba-b240d2195d81,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Intrepid Adversary",651d249f-6771-41ed-8ccf-c8fa85419a75,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Cathartic Pyre",b045c28a-39f9-4cd9-8f3a-a626b697f409,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Consider",0b3f40a0-5f58-4157-aed9-b1a52e922c3c,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Siege Rhino",9011126a-20bd-4c86-a63b-1691f79ac247,2014-09-26,ktk,"Khans of Tarkir"
+
+"Sword of Hearth and Home",0c530cf5-601a-4e9c-b81e-5bddff0c1196,2021-06-18,mh2,"Modern Horizons 2"
+
+"Welcoming Vampire",d8f69cea-823c-482b-a605-8138b3d950e6,2021-11-19,vow,"Innistrad: Crimson Vow"
+
+"Liliana, Death's Majesty",40d8f490-f04d-4d59-9ab0-a977527fd529,2017-04-28,akh,"Amonkhet"
+
+"Thirst for Discovery",1ea179e9-9c0d-46c1-9ee8-60be68e1f79c,2021-11-19,vow,"Innistrad: Crimson Vow"
+
+"Expansion // Explosion",e0644c92-4d67-475e-8c8e-0e2c493682fb,2018-10-05,grn,"Guilds of Ravnica"
+
+"Sword of War and Peace",fab5bc6c-8943-4078-866a-5d02f9be0eef,2011-05-13,nph,"New Phyrexia"
+
+"Endbringer",6bba7509-db77-414f-926f-1f28a4117831,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Suspicious Stowaway // Seafaring Werewolf",783da534-738e-4507-821f-f30956045646,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"The Wandering Emperor",22edc832-993b-432a-8435-8d8a72799122,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Den of the Bugbear",565be37a-4c14-420b-a07c-18e21f7fd731,2021-07-23,afr,"Adventures in the Forgotten Realms"
+
+"Anointed Procession",9a52c265-6920-4929-ba0a-70da08df01f1,2017-04-28,akh,"Amonkhet"
+
+"Decimator of the Provinces",587cb384-db24-4e3d-a338-230e50305d31,2016-07-22,emn,"Eldritch Moon"
+
+"Boseiju, Who Endures",0055ea30-20fb-4324-a632-8fed87628f05,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Swift Reconfiguration",0bd0b431-534d-4ab7-93ed-b9a25259e88e,2022-02-18,nec,"Neon Dynasty Commander"
+
+"Blazing Archon",cd0bc05b-ec48-41fd-a97a-ffb0d5a2dee0,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Eater of Virtue",34d92077-d7b2-4996-848f-fd4917e2fb42,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Karn, Scion of Urza",07a3d9e8-8597-498b-869c-cff79e0df516,2018-04-27,dom,"Dominaria"
+
+"Urza's Saga",2138dfbb-a4e3-49db-b908-95d0b2b7e82f,2021-06-18,mh2,"Modern Horizons 2"
+
+"Wasteland",99ff731b-8399-40c8-b539-ba6ba5783771,1997-10-14,tmp,"Tempest"
+
+"Hexdrinker",89f5cc05-5d9d-4709-b3c5-a6249c294acc,2019-06-14,mh1,"Modern Horizons"
+
+"Ghostway",8b83d750-16d9-41e4-b823-3295c5f6b319,2006-02-03,gpt,"Guildpact"
+
+"Depopulate",737f2d9a-171d-4b0d-bae3-930aa9c88e95,2022-04-29,snc,"Streets of New Capenna"
+
+"Borrowed Time",3eeef24b-b937-408e-a32e-1a546d3e7b0f,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Outland Liberator // Frenzied Trapbreaker",60e53d61-fcc3-4def-8206-052b46f62deb,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Cathar Commando",98cbc1c2-b76e-4da3-aa43-00e10b2ce532,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Daretti, Scrap Savant",cda40e31-ba99-4565-ad92-7c687ff44bd9,2014-11-07,c14,"Commander 2014"
+
+"Field of Ruin",d72afb21-7bb0-4fd8-a529-ada92a654f61,2017-09-29,xln,"Ixalan"
+
+"Sphinx of the Steel Wind",c860cf0f-ef68-455f-9c71-a6dd25b51d71,2009-04-30,arb,"Alara Reborn"
+
+"Maze of Ith",42dcceee-2a47-4eaa-a6a3-2931b3d50244,1994-08-01,drk,"The Dark"
+
+"Jetmir's Garden",26d40e03-6de4-4373-9fbf-04c1dd79e995,2022-04-29,snc,"Streets of New Capenna"
+
+"Raffine's Tower",36bb77f3-8ec4-4b8a-a283-4126037f4d00,2022-04-29,snc,"Streets of New Capenna"
+
+"Xander's Lounge",1d96f496-1fc1-4e66-878a-b0905e920cdc,2022-04-29,snc,"Streets of New Capenna"
+
+"Spara's Headquarters",0ddd6093-eb29-4a1a-a0af-debb86c9cadd,2022-04-29,snc,"Streets of New Capenna"
+
+"Ziatora's Proving Ground",307c4a30-a859-487c-b72d-f10eebcd01c4,2022-04-29,snc,"Streets of New Capenna"
+
+"Fable of the Mirror-Breaker // Reflection of Kiki-Jiki",0b696cd1-0d72-4df5-bacc-dc77e62f9a13,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Lion Sash",308c8834-e06e-452a-b82e-cb2b8fe0c304,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Infernal Grasp",0655bae1-d33b-4bac-856a-ca4518f192e8,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Bow of Nylea",89a2c408-e953-4386-abaf-4af85aba9620,2013-09-27,ths,"Theros"
+
+"Blossoming Defense",5c026c39-b09c-408a-844f-fb5eb785862a,2016-09-30,kld,"Kaladesh"
+
+"Harm's Way",d7e8a22d-a94e-4dfa-86a3-edb80a03d82a,2009-07-17,m10,"Magic 2010"
+
+"Timeless Witness",8a0f47b0-2254-4df2-b3dc-74c1d3811d2f,2021-06-18,mh2,"Modern Horizons 2"
+
+"Brute Force",82d43220-1e4e-4b61-9844-51c8bb5dde35,2007-02-02,plc,"Planar Chaos"
+
+"Unbreakable Formation",46cc8574-7b8c-492c-8a36-75cb0192f853,2019-01-25,rna,"Ravnica Allegiance"
+
+"Temur Battle Rage",8a1dd786-f4e3-4951-b87b-82442edec016,2015-01-23,frf,"Fate Reforged"
+
+"Mind Control",37151305-e489-4df1-9b0a-c5e11c77d2f1,2009-07-17,m10,"Magic 2010"
+
+"Fatestitcher",7e4becff-8280-4e29-a370-bf82fb6734d5,2008-10-03,ala,"Shards of Alara"
+
+"Ornithopter of Paradise",025b0f0f-daf6-4071-82e7-39c015447ce4,2021-06-18,mh2,"Modern Horizons 2"
+
+"Bygone Bishop",7c45198f-fb2b-4c83-abdc-8b1a0071cfed,2016-04-08,soi,"Shadows over Innistrad"
+
+"Witty Roastmaster",71d13f19-482b-4a2e-9692-b7d7caf2f9f5,2022-04-29,snc,"Streets of New Capenna"
+
+"Turnabout",52000066-a8cd-418f-98d2-30354b959b32,1998-10-12,usg,"Urza's Saga"
+
+"High Tide",4686bbb9-517f-4cce-aa7a-5db41e22c02b,1994-11-01,fem,"Fallen Empires"
+
+"Pull from Tomorrow",f1eccf27-c934-45fb-87ae-67006cd4e0ed,2017-04-28,akh,"Amonkhet"
+
+"Rabbit Battery",5d33a5b7-797b-4079-8d62-edd124c0fb5a,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Rhys the Redeemed",59327a58-cd41-479c-81c7-31c9d3b29508,2008-05-02,shm,"Shadowmoor"
+
+"Gamble",0ee0f160-7339-4d98-8a8c-f08889ee52f5,1998-10-12,usg,"Urza's Saga"
+
+"Kor Haven",3d5529ca-5c20-4dfd-8595-96d6dfa6debe,2000-02-14,nem,"Nemesis"
+
+"Might of Old Krosa",7b7b2c47-2123-45c1-993c-e7a2c9438855,2006-10-06,tsp,"Time Spiral"
+
+"Aesi, Tyrant of Gyre Strait",d607b003-6b48-429c-a7fd-45b8dd1bb4f9,2020-11-20,cmr,"Commander Legends"
+
+"Dress Down",04f9f061-67b8-4427-9fcb-b3ccfee8fc5d,2021-06-18,mh2,"Modern Horizons 2"
+
+"Flooded Strand",b4e3d844-d3b4-41d8-921d-c1cb3af343f8,2002-10-07,ons,"Onslaught"
+
+"Polluted Delta",0f7585c8-9e21-4eef-afc1-2852de23db2f,2002-10-07,ons,"Onslaught"
+
+"Marsh Flats",45026d57-0324-4312-8b86-2e7d4f581ee9,2009-10-02,zen,"Zendikar"
+
+"Arid Mesa",16c8d2fa-54a7-46e8-980c-905258497c90,2009-10-02,zen,"Zendikar"
+
+"Scalding Tarn",327cf118-cc92-4073-85d0-94d2a0a6989a,2009-10-02,zen,"Zendikar"
+
+"Misty Rainforest",24a5cc2c-0fbf-4a5f-b175-6e0ffd0d0787,2009-10-02,zen,"Zendikar"
+
+"Verdant Catacombs",7abd2723-2851-4f1a-b2d0-dfcb526472c3,2009-10-02,zen,"Zendikar"
+
+"Bloodstained Mire",68c72226-6f52-4322-8b14-18737293dfa0,2002-10-07,ons,"Onslaught"
+
+"Wooded Foothills",cdad38f7-9dfa-4f1b-9fac-41ab2b253f53,2002-10-07,ons,"Onslaught"
+
+"Windswept Heath",7a7c5941-9c8a-4a40-9efb-a84f05c58e53,2002-10-07,ons,"Onslaught"
+
+"Thought-Knot Seer",bffc360e-db41-48f3-9365-680d55046e04,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Reality Smasher",52d4b652-a830-4fd4-94bb-c17c227f2928,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Arcane Artisan",6b2441e0-06f6-4455-8fa8-a34c3e241a56,2018-06-08,bbd,"Battlebond"
+
+"Palladium Myr",18c016ad-bb82-4944-8c06-ab180b808041,2010-10-01,som,"Scars of Mirrodin"
+
+"Expressive Iteration",31b770cc-09e7-4c0b-b2a4-462ab4f7200d,2021-04-23,stx,"Strixhaven: School of Mages"
+
+"Baleful Strix",62090c97-7e3e-4854-bc44-c4a900133ec5,2012-06-01,pc2,"Planechase 2012"
+
+"Ghor-Clan Rampager",382048ec-0bf5-49a5-90d5-f80fbda08962,2013-02-01,gtc,"Gatecrash"
+
+"Behemoth Sledge",84e4a224-2db7-47d0-ba8b-98aeb50ad5d3,2009-04-30,arb,"Alara Reborn"
+
+"Zealous Persecution",07d8ae46-14ec-4878-ba8a-a47d4508c6d7,2009-04-30,arb,"Alara Reborn"
+
+"Lightning Helix",1b2ecf55-c1cc-4b28-b7ce-e1b25305155e,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Coiling Oracle",55a6ba2a-b372-4b15-9a1e-09b41316eab7,2006-05-05,dis,"Dissension"
+
+"Gravecrawler",48d73cb5-22ac-43df-9c4b-0c860bb80b3e,2012-02-03,dka,"Dark Ascension"
+
+"Razorlash Transmogrant",e021e750-74f3-466a-b670-f5cd9cebb84a,2022-11-18,bro,"The Brothers' War"
+
+"Takenuma, Abandoned Mire",13410bd5-acee-4cc9-90e3-dbcf8415bcaf,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Evolved Sleeper",57c7253c-eb58-4b89-b1ae-a025e8ad1c20,2022-09-09,dmu,"Dominaria United"
+
+"Dockside Chef",d80100c3-c81e-4084-8dfe-f8610637fd91,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Tidehollow Sculler",1abecc77-07f2-43e4-8585-0a8199cdcf01,2008-10-03,ala,"Shards of Alara"
+
+"Soul Manipulation",bcd3cb05-c6f9-435a-a0e7-1f85da4a36eb,2009-04-30,arb,"Alara Reborn"
+
+"Black Market Connections",8b28572c-d2ba-4834-8630-3d82202ebb6f,2022-06-10,clb,"Commander Legends: Battle for Baldur's Gate"
+
+"Displacer Kitten",9a53e8fc-bfd2-4866-a61c-f3204b0a98bf,2022-06-10,clb,"Commander Legends: Battle for Baldur's Gate"
+
+"Snuff Out",18a3cca1-e50e-49b6-9e1a-f86640e3b177,1999-10-04,mmq,"Mercadian Masques"
+
+"Endurance",1fc6d14a-1328-4032-ad9e-cd85cd365bd3,2021-06-18,mh2,"Modern Horizons 2"
+
+"Tenacious Underdog",9b6a6d00-3e00-4827-8420-13343ac3d0fd,2022-04-29,snc,"Streets of New Capenna"
+
+"Greatsword of Tyr",50088a60-642b-47ed-a289-ef0b617b688f,2022-06-10,clb,"Commander Legends: Battle for Baldur's Gate"
+
+"Sokenzan, Crucible of Defiance",327333cc-2cc9-44ba-a0e6-d01329c416a3,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Hangarback Walker",791c21fb-fc78-4106-9a42-abc73f41ab8b,2015-07-17,ori,"Magic Origins"
+
+"Porcelain Legionnaire",2616aa0e-8413-4e63-877c-bffd5263f552,2011-05-13,nph,"New Phyrexia"
+
+"Mikaeus, the Unhallowed",801b124d-3546-4882-a6e1-c9c353628a18,2012-02-03,dka,"Dark Ascension"
+
+"Tear Asunder",629aa907-9533-4681-9bf2-9e56450a4cc2,2022-09-09,dmu,"Dominaria United"
+
+"Radha's Firebrand",1d20e461-2850-4404-838a-ad2c810100b5,2022-09-09,dmu,"Dominaria United"
+
+"Aether Channeler",2026190a-1463-4b55-923c-bc00c85ef3e0,2022-09-09,dmu,"Dominaria United"
+
+"Serra Paragon",69284b53-f712-418c-94a0-4e5638117256,2022-09-09,dmu,"Dominaria United"
+
+"Cult Conscript",fed77513-94ab-44e2-b9a1-30ba927cd6ee,2022-09-09,dmu,"Dominaria United"
+
+"Dreadbore",a83945c6-4dc6-4d9a-9bc2-2d4a264e5422,2012-10-05,rtr,"Return to Ravnica"
+
+"Coalition Relic",7a7c98b0-d64d-4d0a-b284-1187a8e7095e,2007-05-04,fut,"Future Sight"
+
+"Ghitu Fire",78827acd-a526-411b-bd22-ab9b538c75dd,2000-10-02,inv,"Invasion"
+
+"Chaos Defiler",1c0f2873-5849-4cab-855a-2fbbc41dbb6c,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Old One Eye",214a778a-61d5-4bbe-b0e1-e9eb542f441d,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Treetop Village",02212bd8-0c0f-4e8e-99f1-a8477476c03a,1999-02-15,ulg,"Urza's Legacy"
+
+"Necron Deathmark",4129cb0d-eefe-4971-9db8-1196201ef353,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Squee, Dubious Monarch",0f39ecc9-0a4c-47e7-b8e6-7e00d4cb61e3,2022-09-09,dmu,"Dominaria United"
+
+"Faerie Conclave",ae3ede87-b026-4781-81ab-8652664f8e41,1999-02-15,ulg,"Urza's Legacy"
+
+"Pia and Kiran Nalaar",0dcafa9e-3637-42ca-bdb2-45a2b5da7294,2015-07-17,ori,"Magic Origins"
+
+"Mawloc",bbec97ff-bb84-4496-9e09-d4fc1570c516,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Minsc & Boo, Timeless Heroes",928036c9-11b8-493e-b9f2-8fbd3487cd19,2022-06-10,clb,"Commander Legends: Battle for Baldur's Gate"
+
+"Bloodthirsty Adversary",196e21ed-6523-40a5-9d53-5864c7dca2cf,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Recruitment Officer",c226656b-68d5-4df2-b313-a323a728c520,2022-11-18,bro,"The Brothers' War"
+
+"Loran of the Third Path",59faa45d-868b-4bc7-934c-0e077642e129,2022-11-18,bro,"The Brothers' War"
+
+"Third Path Iconoclast",f1a21287-e244-4960-84fb-c4f6e5c346d9,2022-11-18,bro,"The Brothers' War"
+
+"Time Warp",3447aeaf-3b26-442a-99d4-0a7ee76c8e76,1997-10-14,tmp,"Tempest"
+
+"Animate Library",add4f168-c69e-4045-9725-47208ef69935,2017-12-08,ust,"Unstable"
+
+"Draconic Destiny",f71240ad-1daf-419a-aaeb-5f9d5079c3dd,2022-11-18,bro,"The Brothers' War"
+
+"Armageddon",5b6ddce7-b9c5-431d-a0b0-46d4aa93cbcb,1993-08-05,lea,"Limited Edition Alpha"
+
+"Neheb, the Eternal",54231832-d492-4812-b658-4ab9a30fefe2,2017-07-14,hou,"Hour of Devastation"
+
+"Inferno of the Star Mounts",c788c6a6-20d9-4a93-a898-330b085226c4,2021-07-23,afr,"Adventures in the Forgotten Realms"
+
+"Phyrexian Fleshgorger",37dc4676-5e8e-4ce8-a7f7-8cb956bd5a10,2022-11-18,bro,"The Brothers' War"
+
+"Dreams of Steel and Oil",261ac92e-c61a-4c11-aa6a-9ae1cb703e5c,2022-11-18,bro,"The Brothers' War"
+
+"Draining Whelk",c559d326-b97b-43d9-b7c9-c09e1a0e9db6,2006-10-06,tsp,"Time Spiral"
+
+"Haywire Mite",847a175e-ead1-4596-baf3-5f7f57859e0b,2022-11-18,bro,"The Brothers' War"
+
+"Unlicensed Hearse",9066fb8f-8568-4e87-bee9-573f6c204a26,2022-04-29,snc,"Streets of New Capenna"
+
+"Fleetwheel Cruiser",5fdaca1e-5741-456e-ae98-e2c45fd1731b,2016-09-30,kld,"Kaladesh"
+
+"Ink-Eyes, Servant of Oni",386d391d-a3f8-49a4-802a-409944b2acf3,2005-02-04,bok,"Betrayers of Kamigawa"
+
+"Tyvar's Stand",c7b362a5-382a-4016-b4f2-aa7b683354c4,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Planar Disruption",8ee69a1f-aeed-4eb4-8987-fa720fc99715,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Blazing Crescendo",d6bfc16a-2871-40a4-b279-636b80491a06,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Blazing Shoal",8b915daa-d239-4460-bd6b-e1327fdf7f51,2005-02-04,bok,"Betrayers of Kamigawa"
+
+"Mercurial Spelldancer",3b820e40-178d-4dac-b5f9-e4192e6d9161,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Nantuko Husk",1ff31ece-f132-4107-9415-fcf30e251167,2002-10-07,ons,"Onslaught"
+
+"Eldrazi Displacer",f0bb1a5c-0f59-4951-827f-fe9df968232d,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Resolute Reinforcements",3e11ad33-b9d7-43ef-840a-61955683b599,2022-09-09,dmu,"Dominaria United"
+
+"Agent of Treachery",cc6686e6-4535-49be-b0b3-e76464656cd2,2019-07-12,m20,"Core Set 2020"
+
+"Master Transmuter",252482b2-aaa7-49f3-af8c-30923ca98994,2009-02-06,con,"Conflux"
+
+"Sword of Forge and Frontier",2daa3621-8a2c-4b4b-87ac-f981192a0567,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Tasigur, the Golden Fang",81f93ac5-d149-4ccf-8b99-13ecf3190c29,2015-01-23,frf,"Fate Reforged"
+
+"Mindslaver",98fb1eaa-2871-491a-a4f5-3e358778ba40,2003-10-02,mrd,"Mirrodin"
+
+"Akroma, Angel of Fury",3815de82-5ba9-4fb6-9259-d5e50e046890,2007-02-02,plc,"Planar Chaos"
+
+"Bosh, Iron Golem",9bfe325c-8d3d-4543-9fcd-214525d4ab2a,2003-10-02,mrd,"Mirrodin"
+
+"Careful Study",dea15b53-2940-40e7-8d48-8ec11341da83,2001-10-01,ody,"Odyssey"
+
+"Tetzimoc, Primal Death",c6a0b40e-7a43-4722-b787-a5d7ec6453ac,2018-01-19,rix,"Rivals of Ixalan"
+
+"Seasoned Dungeoneer",648d9da3-5790-4d64-8b52-83141d2faf36,2022-06-10,clb,"Commander Legends: Battle for Baldur's Gate"
+
+"Scute Swarm",309b2cb5-b9a8-417d-b5ae-0a7d03ff93f0,2020-09-25,znr,"Zendikar Rising"
+
+"Mirari's Wake",b5ddad46-5e2e-43c9-8c91-7aca6ca23562,2002-05-27,jud,"Judgment"
+
+"Grist, the Hunger Tide",69af2825-18c2-4463-b6ba-42eaa070ccc1,2021-06-18,mh2,"Modern Horizons 2"
+
+"Colossal Skyturtle",f40bd797-4d12-4098-a1a8-d7e5b7b82ac9,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Phoebe, Head of S.N.E.A.K.",8d54d145-a570-49cc-bbb0-8c12c168ec23,2017-12-08,ust,"Unstable"
+
+"Agony Warp",e246294f-7614-48e9-a655-647faf0bf697,2008-10-03,ala,"Shards of Alara"
+
+"Thief of Sanity",307543ca-8e17-433f-9758-4c77da6c0870,2018-10-05,grn,"Guilds of Ravnica"
+
+"Azorius Guildmage",81f0f0ce-7c23-444c-9d9f-bfa9c8705fd5,2006-05-05,dis,"Dissension"
+
+"Venser, the Sojourner",3d48d62e-5c1f-464c-aa81-8a5d2690f48e,2010-10-01,som,"Scars of Mirrodin"
+
+"Akroma's Blessing",c3710c68-3f71-4d76-8bd2-001f0e8036f5,2002-10-07,ons,"Onslaught"
+
+"Soulherder",ea23111b-ccc1-4d5c-a9d2-9db14c728820,2019-06-14,mh1,"Modern Horizons"
+
+"Voice of Resurgence",07246783-d475-4f61-99ac-e2b574072349,2013-05-03,dgm,"Dragon's Maze"
+
+"Valki, God of Lies // Tibalt, Cosmic Impostor",86528590-6ff1-4dfa-adf2-6de05ff7b89c,2021-02-05,khm,"Kaldheim"
+
+"Ob Nixilis, the Adversary",54630dd4-65bc-468a-b9a5-f24242459e61,2022-04-29,snc,"Streets of New Capenna"
+
+"Dragonlord Silumgar",2eae504d-d4a9-440f-8ceb-df967cc50494,2015-03-27,dtk,"Dragons of Tarkir"
+
+"Tamiyo, Compleated Sage",222a736e-d819-452d-aeda-eb848c4b2302,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Conduit of Worlds",635146da-d415-4107-a7f9-2c46189e5c52,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Narset, Parter of Veils",8c39f9b4-02b9-4d44-b8d6-4fd02ebbb0c5,2019-05-03,war,"War of the Spark"
+
+"Titan of Industry",5b6f03c1-9e9d-4a0c-af3b-9753b440cd9f,2022-04-29,snc,"Streets of New Capenna"
+
+"World Breaker",0020a124-ba76-4d40-84e9-9803268d9f16,2016-01-22,ogw,"Oath of the Gatewatch"
+
+"Laboratory Maniac",809205f3-acf5-4244-b360-09ce4ba76795,2011-09-30,isd,"Innistrad"
+
+"Golgari Grave-Troll",f61b50e6-2166-435d-bf48-c4a0cff9999c,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Silverback Elder",b987664f-0b74-4c0a-b306-14767a55559a,2022-09-09,dmu,"Dominaria United"
+
+"Whisperwood Elemental",66c61828-98b9-4264-b3dd-e83f881f4a67,2015-01-23,frf,"Fate Reforged"
+
+"Spike Feeder",3751b2ae-a234-4691-984b-2f9f6b1cd1df,1998-03-02,sth,"Stronghold"
+
+"Fertile Ground",091dda35-59e5-456d-8804-61513a610aed,1998-10-12,usg,"Urza's Saga"
+
+"Atraxa, Grand Unifier",4a1f905f-1d55-4d02-9d24-e58070793d3f,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Cankerbloom",02272f89-dd8e-4a07-8bd4-b33ad4e12888,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Terastodon",e66d2f62-8a4a-4e8d-93e1-5dc802684106,2010-02-05,wwk,"Worldwake"
+
+"Acidic Slime",f1377f45-edee-4922-825b-6f22163ff63d,2009-07-17,m10,"Magic 2010"
+
+"Augur of Autumn",6aa98767-ae27-4cf0-98ea-93e659f160f4,2021-09-24,mid,"Innistrad: Midnight Hunt"
+
+"Chatterfang, Squirrel General",1785cf85-1ac0-4246-9b89-1a8221a8e1b2,2021-06-18,mh2,"Modern Horizons 2"
+
+"Oracle of Mul Daya",7f89a173-0b2f-4a6a-b706-9aed8dbcabec,2009-10-02,zen,"Zendikar"
+
+"Hordeling Outburst",a5c1bf52-2737-423a-b340-07448afcaea6,2014-09-26,ktk,"Khans of Tarkir"
+
+"Surrak Dragonclaw",03032d89-caca-43ff-b2ea-028e376c829c,2014-09-26,ktk,"Khans of Tarkir"
+
+"Doran, the Siege Tower",b006b169-295d-4ead-8e8e-29a9c3246025,2007-10-12,lrw,"Lorwyn"
+
+"Yosei, the Morning Star",1b38f14a-bd10-47c1-8772-5abe0a0b243f,2004-10-01,chk,"Champions of Kamigawa"
+
+"Ranger of Eos",1a30ee26-5f78-4ac2-9105-1baa9ece8a21,2008-10-03,ala,"Shards of Alara"
+
+"Ramunap Excavator",90a54d18-8403-441d-a115-ee462fabdabb,2017-07-14,hou,"Hour of Devastation"
+
+"Bolas's Citadel",d2124603-d20e-40eb-97f0-a66323397ac2,2019-05-03,war,"War of the Spark"
+
+"Breya's Apprentice",62a7da2c-3156-403b-8722-d1fa5eb5192e,2021-06-18,mh2,"Modern Horizons 2"
+
+"Spiritmonger",b96d6e67-f690-4f19-bb25-a7c2d2aaf42f,2001-06-04,apc,"Apocalypse"
+
+"Masticore",908a2215-7231-43a4-8fec-5d1e4233c028,1999-06-07,uds,"Urza's Destiny"
+
+"Esper Sentinel",676758ee-dac8-4c97-8a62-fff25bcbb6df,2021-06-18,mh2,"Modern Horizons 2"
+
+"Angel of Despair",9ae71424-df9c-481c-9305-a0c30adcfda2,2006-02-03,gpt,"Guildpact"
+
+"Teferi, Mage of Zhalfir",3c0145f6-4e27-49e7-9ef6-bac6fa3de26d,2006-10-06,tsp,"Time Spiral"
+
+"Invasion of Gobakhan // Lightshield Array",11798730-6788-4e0b-a828-b46cab1a4fa7,2023-04-21,mom,"March of the Machine"
+
+"Brine Elemental",8dab2c73-501b-46c9-bc76-134b50d35bb8,2006-10-06,tsp,"Time Spiral"
+
+"Eiganjo, Seat of the Empire",7c31c48f-6275-4430-8dc9-05d70c332b7a,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Cryptbreaker",629e37d1-c0f3-44f2-926e-41eb3687c1d9,2016-07-22,emn,"Eldritch Moon"
+
+"Otawara, Soaring City",486d7edc-d983-41f0-8b78-c99aecd72996,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Priest of Forgotten Gods",e3378fe8-3355-48aa-90d4-9cb739200160,2019-01-25,rna,"Ravnica Allegiance"
+
+"Earl of Squirrel",c3bbf567-bdb4-4f88-906c-eb1503c02d9f,2017-12-08,ust,"Unstable"
+
+"Oketra's Monument",104503a6-bca5-48d7-88b1-424f98985d75,2017-04-28,akh,"Amonkhet"
+
+"Thraben Inspector",d140c3b7-ca78-483d-baeb-307b624fea8b,2016-04-08,soi,"Shadows over Innistrad"
+
+"Gingerbrute",f55fe038-c903-4d92-b689-72dd6d041a91,2019-10-04,eld,"Throne of Eldraine"
+
+"Duplicant",d48a96f2-738f-433f-bfae-fbf378832a3b,2003-10-02,mrd,"Mirrodin"
+
+"Solemn Simulacrum",00f9955f-a522-47bf-b064-92dd21a76b18,2003-10-02,mrd,"Mirrodin"
+
+"Gilded Lotus",a1d5e4c8-dfd0-45bc-8000-ebfaccfefec3,2003-10-02,mrd,"Mirrodin"
+
+"Lodestone Golem",9bb0ee6a-852a-4f1e-8f03-40b6d505bc82,2010-02-05,wwk,"Worldwake"
+
+"Allosaurus Shepherd",0ee4a931-5d61-49ba-affc-f022263938ca,2020-07-17,jmp,"Jumpstart"
+
+"Migloz, Maze Crusher",59f24481-fd89-4d0e-bb64-1f6afe4f17df,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Loxodon Hierarch",a1d3ccca-8040-4a5f-9f2b-6fdb1a033234,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Savannah Lions",d05b92bd-797e-413f-a8b0-32e0937a1ee0,1993-08-05,lea,"Limited Edition Alpha"
+
+"Finale of Glory",4ccacb84-2b8e-40b8-8d53-d1b97bb2971f,2019-05-03,war,"War of the Spark"
+
+"Luminarch Aspirant",ebe9427d-068f-487c-9263-b40366a164bc,2020-09-25,znr,"Zendikar Rising"
+
+"Seasoned Hallowblade",feb59931-8941-46fb-8e1c-f80ff3730dd9,2020-07-03,m21,"Core Set 2021"
+
+"Stonecoil Serpent",a47357be-9e4b-4581-94f5-0574754e2977,2019-10-04,eld,"Throne of Eldraine"
+
+"Drana, Liberator of Malakir",d3f6ed18-eb6f-4d07-8660-cf7c074c87cd,2015-10-02,bfz,"Battle for Zendikar"
+
+"Tangle Wire",ad62f313-8a8a-4ffa-ada2-b12b76288729,2000-02-14,nem,"Nemesis"
+
+"Nettlecyst",4a0bb5dc-75a6-4bd6-81f8-611197fb0fba,2021-06-18,mh2,"Modern Horizons 2"
+
+"Grim Tutor",ff00e877-3588-4ba9-a1f2-86f726157017,1999-07-01,s99,"Starter 1999"
+
+"Blurry Beeble",1a1a368e-51da-454d-a474-ff14fd2e7b76,2017-12-08,ust,"Unstable"
+
+"Hope of Ghirapur",6f4bcadd-7eff-4294-94d5-52482a734d5b,2017-01-20,aer,"Aether Revolt"
+
+"Yorion, Sky Nomad",275426c4-c14e-47d0-a9d4-24da7f6f6911,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Burning-Tree Shaman",133863fc-e820-4be6-a354-a02e7fe25eae,2006-02-03,gpt,"Guildpact"
+
+"Coercive Portal",b010ece6-ccb9-4237-8682-2e147220f908,2014-06-06,cns,"Conspiracy"
+
+"Corpse Knight",8b45117b-8369-48fc-8e5d-8986e662d123,2019-07-12,m20,"Core Set 2020"
+
+"Skrelv's Hive",2029caf7-da57-4894-ab27-4718977817c5,2023-02-03,one,"Phyrexia: All Will Be One"
+
+"Skyknight Vanguard",549634d8-1c33-401b-841d-a79ef4374dd1,2019-07-12,m20,"Core Set 2020"
+
+"Kiora, Behemoth Beckoner",1f2b1975-183b-4989-aa1f-a653ec732abf,2019-05-03,war,"War of the Spark"
+
+"Vadrok, Apex of Thunder",658b75a1-c12c-4904-8a65-4eb75d1d32f7,2020-04-24,iko,"Ikoria: Lair of Behemoths"
+
+"Temur Ascendancy",11746bf1-d813-4ade-8ce4-9935cebef856,2014-09-26,ktk,"Khans of Tarkir"
+
+"Finest Hour",d3bb726e-e561-4a14-913d-afde1964c64a,2009-04-30,arb,"Alara Reborn"
+
+"Soul of Windgrace",4a9ce534-4bd4-4ba1-b875-7f74dd5f712c,2022-09-09,dmu,"Dominaria United"
+
+"Jetmir, Nexus of Revels",f9c69d75-651f-4b75-b65d-79999d2069f6,2022-04-29,snc,"Streets of New Capenna"
+
+"Rocco, Cabaretti Caterer",0cbc93cb-8df4-446f-b99f-21238355ad64,2022-04-29,snc,"Streets of New Capenna"
+
+"Credit Voucher",1ab65242-17ad-4c22-9c70-aac8076d1b4c,1999-10-04,mmq,"Mercadian Masques"
+
+"Credit Voucher",1ab65242-17ad-4c22-9c70-aac8076d1b4c,1999-10-04,mmq,"Mercadian Masques"
+
+"Credit Voucher",1ab65242-17ad-4c22-9c70-aac8076d1b4c,1999-10-04,mmq,"Mercadian Masques"
+
+"Etched Champion",ab2242c2-7379-4fff-a745-d180685da6db,2010-10-01,som,"Scars of Mirrodin"
+
+"Sparkhunter Masticore",ad357ed4-b4f2-45b5-b7c4-3c6013a4ea3d,2020-07-03,m21,"Core Set 2021"
+
+"Containment Construct",520e5505-429b-4da0-b25e-14b8d4e81ce3,2022-02-18,neo,"Kamigawa: Neon Dynasty"
+
+"Krenko, Tin Street Kingpin",37ed04d3-cfa1-4778-aea6-b4c2c29e6e0a,2019-05-03,war,"War of the Spark"
+
+"Land Tax",d53b20b0-67bc-4587-817b-efbf21cb2512,1994-06-01,leg,"Legends"
+
+"Skycloud Egg",e588cc41-4b86-4e93-94e8-dd765b27ab63,2001-10-01,ody,"Odyssey"
+
+"Darkwater Egg",fb988572-1e1d-4b1d-8dc7-78bda966554e,2001-10-01,ody,"Odyssey"
+
+"Shadowblood Egg",044bbf15-e71d-4f47-bac3-bba8021118bd,2001-10-01,ody,"Odyssey"
+
+"Mossfire Egg",1fd66433-b0e9-453d-9a27-ea0efb158dac,2001-10-01,ody,"Odyssey"
+
+"Temple Garden",794a2b79-8c55-4423-8843-7e6e96f84071,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Sword of Once and Future",1670393d-86f0-46fb-b577-f73a1da2a3ed,2023-04-21,mom,"March of the Machine"
+
+"Strip Mine",917e98db-a0c4-4836-9e4b-3fda142eedf6,1994-03-04,atq,"Antiquities"
+
+"Wasteland",99ff731b-8399-40c8-b539-ba6ba5783771,1997-10-14,tmp,"Tempest"
+
+"Jeweled Amulet",34f7bad2-d28f-42d2-9246-fe3545ef49a7,1995-06-03,ice,"Ice Age"
+
+"Jack-in-the-Mox",1834ac92-8b4e-4442-a834-acd580e1ef99,1998-08-11,ugl,"Unglued"
+
+"Liberator, Urza's Battlethopter",04acd5af-bd55-4c16-9b6d-10822d564c14,2022-11-18,bro,"The Brothers' War"
+
+"Who // What // When // Where // Why",8987644d-5a31-4a4e-9a8a-3d6260ed0fd6,2004-11-19,unh,"Unhinged"
+
+"Overgrown Tomb",fce07335-cc78-4683-b2f0-9c98a06ea1d8,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Breeding Pool",b98b2a35-ec2b-47fe-903d-dd292e469a3c,2006-05-05,dis,"Dissension"
+
+"Godless Shrine",be010c2f-06db-47e3-80bd-df3f2a21ca34,2006-02-03,gpt,"Guildpact"
+
+"Sacred Foundry",168ef687-5797-4b45-b75b-393d8117cebd,2005-10-07,rav,"Ravnica: City of Guilds"
+
+"Steam Vents",054f2276-2dd5-43da-bb26-c57c560861fe,2006-02-03,gpt,"Guildpact"
+
+"Glenn, the Voice of Calm",6e5df29a-af3b-4acc-8312-f2024ab039e0,2020-10-13,sld,"Secret Lair Drop"
+
+"Halo Forager",2ca2b471-9418-4881-b7dc-92209942698b,2023-04-21,mom,"March of the Machine"
+
+"Chainer, Nightmare Adept",d7b0a8f8-d368-45e6-a546-984e7b1913e0,2019-08-23,c19,"Commander 2019"
+
+"Blitz Hellion",0b4a16be-ab3b-4020-9f26-631c0ee6730a,2009-04-30,arb,"Alara Reborn"
+
+"King Darien XLVIII",10eca3b1-f35a-4984-bfc0-818e619b1ece,2022-09-09,dmu,"Dominaria United"
+
+"Kambal, Consul of Allocation",49d61ddb-2662-427c-a97d-21e41b86130d,2016-09-30,kld,"Kaladesh"
+
+"Varolz, the Scar-Striped",4c3ae3db-c14a-4ffc-805c-a3a51da9370d,2013-05-03,dgm,"Dragon's Maze"
+
+"Wildfire Awakener",824331ff-3055-4628-8486-7d0dd088eec8,2023-04-21,moc,"March of the Machine Commander"
+
+"Exalted Flamer of Tzeentch",47ebc3bc-113f-437c-b60a-9597939d91ea,2022-10-07,40k,"Warhammer 40,000 Commander"
+
+"Uro, Titan of Nature's Wrath",a0b6a71e-56cb-4d25-8f2b-7a4f1b60900d,2020-01-24,thb,"Theros Beyond Death"
